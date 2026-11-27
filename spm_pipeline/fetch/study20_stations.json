@@ -1,0 +1,32 @@
+{
+  "Bengaluru": {
+    "BTM Layout, Bengaluru - CPCB": "BTM Layout",
+    "Hebbal, Bengaluru - KSPCB": "Hebbal",
+    "Hombegowda Nagar, Bengaluru - KSPCB": "Hombegowda Nagar",
+    "Peenya, Bengaluru - CPCB": "Peenya"
+  },
+  "Chennai": {
+    "Kodungaiyur, Chennai - TNPCB": "Kodungaiyur",
+    "Manali, Chennai - CPCB": "Manali CPCB",
+    "Perungudi, Chennai - TNPCB": "Perungudi",
+    "Royapuram, Chennai - TNPCB": "Royapuram"
+  },
+  "Delhi": {
+    "Anand Vihar, Delhi - DPCC": "Anand Vihar",
+    "Mandir Marg, Delhi - DPCC": "Mandir Marg",
+    "Punjabi Bagh, Delhi - DPCC": "Punjabi Bagh",
+    "R K Puram, Delhi - DPCC": "R.K. Puram"
+  },
+  "Kolkata": {
+    "Ballygunge, Kolkata - WBPCB": "Ballygunge",
+    "Jadavpur, Kolkata - WBPCB": "Jadavpur",
+    "Rabindra Bharati University, Kolkata - WBPCB": "Rabindra Bharati",
+    "Victoria, Kolkata - WBPCB": "Victoria"
+  },
+  "Mumbai": {
+    "Bandra Kurla Complex, Mumbai - IITM": "BKC",
+    "Borivali East, Mumbai - MPCB": "Borivali East",
+    "Powai, Mumbai - MPCB": "Powai",
+    "Sion, Mumbai - MPCB": "Sion MPCB"
+  }
+}

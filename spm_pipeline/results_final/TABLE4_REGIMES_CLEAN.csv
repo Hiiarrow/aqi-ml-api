@@ -1,0 +1,1079 @@
+run_id,protocol,heldout,horizon,weather_mode,regime,model,N,RMSE,MAE,skill_RMSE_pct,skill_MAE_pct
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,y_t >= 60,best_tree,41978,26.14,13.7,11.99,13.4
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,y_t >= 60,climatology,41978,106.36,65.54,-258.08,-314.2
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,y_t >= 60,equal_neural_ens,41978,25.41,13.41,14.44,15.27
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,y_t >= 60,persistence,41978,29.7,15.82,0.0,0.0
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,y_t >= 60,ridge,41978,27.22,14.22,8.37,10.12
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,y_t >= 60,stack,41978,25.39,13.38,14.5,15.46
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,y_t >= 120,best_tree,14427,39.56,22.83,12.37,14.67
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,y_t >= 120,climatology,14427,176.41,146.11,-290.78,-446.09
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,y_t >= 120,equal_neural_ens,14427,38.31,22.23,15.14,16.92
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,y_t >= 120,persistence,14427,45.14,26.76,0.0,0.0
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,y_t >= 120,ridge,14427,41.27,23.89,8.59,10.73
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,y_t >= 120,stack,14427,38.31,22.24,15.15,16.88
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,y_t >= 250,best_tree,3797,60.55,36.57,12.33,13.57
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,y_t >= 250,climatology,3797,287.0,268.73,-315.57,-535.09
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,y_t >= 250,equal_neural_ens,3797,57.83,35.09,16.26,17.08
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,y_t >= 250,persistence,3797,69.06,42.31,0.0,0.0
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,y_t >= 250,ridge,3797,63.39,38.1,8.2,9.95
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,y_t >= 250,stack,3797,57.76,35.13,16.36,16.99
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,onset (y_t - y_t-3 > 30),best_tree,9114,43.29,24.62,11.28,13.58
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,onset (y_t - y_t-3 > 30),climatology,9114,165.15,116.08,-238.47,-307.42
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,onset (y_t - y_t-3 > 30),equal_neural_ens,9114,41.81,23.95,14.31,15.96
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,onset (y_t - y_t-3 > 30),persistence,9114,48.79,28.49,0.0,0.0
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,onset (y_t - y_t-3 > 30),ridge,9114,45.4,25.73,6.95,9.7
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,onset (y_t - y_t-3 > 30),stack,9114,41.7,23.88,14.54,16.18
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,winter (Nov-Feb),best_tree,51782,20.72,9.53,12.34,11.77
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,winter (Nov-Feb),climatology,51782,93.3,57.04,-294.75,-428.38
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,winter (Nov-Feb),equal_neural_ens,51782,20.15,9.33,14.73,13.61
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,winter (Nov-Feb),persistence,51782,23.63,10.8,0.0,0.0
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,winter (Nov-Feb),ridge,51782,21.87,10.06,7.46,6.8
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,winter (Nov-Feb),stack,51782,20.12,9.29,14.87,13.92
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,other months (Mar-Oct),best_tree,99497,10.76,5.31,9.17,7.69
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,other months (Mar-Oct),climatology,99497,44.48,37.43,-275.6,-550.83
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,other months (Mar-Oct),equal_neural_ens,99497,10.59,5.3,10.56,7.87
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,other months (Mar-Oct),persistence,99497,11.84,5.75,0.0,0.0
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,other months (Mar-Oct),ridge,99497,11.01,5.53,7.01,3.8
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,other months (Mar-Oct),stack,99497,10.57,5.27,10.75,8.42
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,all,best_tree,151279,14.93,6.75,11.3,9.7
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,all,climatology,151279,65.43,44.15,-288.62,-490.33
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,all,equal_neural_ens,151279,14.59,6.68,13.35,10.71
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,all,persistence,151279,16.84,7.48,0.0,0.0
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,all,ridge,151279,15.6,7.08,7.31,5.28
+P2_2023_ALL20_h1_direct_none,P2_2023,ALL20,1,none,all,stack,151279,14.56,6.65,13.51,11.14
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,y_t >= 60,best_tree,41978,25.8,13.49,13.13,14.73
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,y_t >= 60,climatology,41978,106.36,65.54,-258.08,-314.2
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,y_t >= 60,equal_neural_ens,41978,25.19,13.21,15.2,16.54
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,y_t >= 60,persistence,41978,29.7,15.82,0.0,0.0
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,y_t >= 60,ridge,41978,26.95,14.11,9.26,10.8
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,y_t >= 60,stack,41978,25.37,13.2,14.59,16.58
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,y_t >= 120,best_tree,14427,39.12,22.52,13.34,15.85
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,y_t >= 120,climatology,14427,176.41,146.11,-290.78,-446.09
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,y_t >= 120,equal_neural_ens,14427,38.04,21.86,15.73,18.31
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,y_t >= 120,persistence,14427,45.14,26.76,0.0,0.0
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,y_t >= 120,ridge,14427,40.89,23.57,9.42,11.93
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,y_t >= 120,stack,14427,38.42,21.94,14.89,18.0
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,y_t >= 250,best_tree,3797,59.92,36.24,13.23,14.35
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,y_t >= 250,climatology,3797,287.0,268.73,-315.57,-535.09
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,y_t >= 250,equal_neural_ens,3797,57.62,34.55,16.56,18.35
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,y_t >= 250,persistence,3797,69.06,42.31,0.0,0.0
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,y_t >= 250,ridge,3797,62.97,37.88,8.82,10.48
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,y_t >= 250,stack,3797,58.47,34.97,15.34,17.35
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,onset (y_t - y_t-3 > 30),best_tree,9114,42.86,24.12,12.15,15.35
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,onset (y_t - y_t-3 > 30),climatology,9114,165.15,116.08,-238.47,-307.42
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,onset (y_t - y_t-3 > 30),equal_neural_ens,9114,41.47,23.41,15.0,17.85
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,onset (y_t - y_t-3 > 30),persistence,9114,48.79,28.49,0.0,0.0
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,onset (y_t - y_t-3 > 30),ridge,9114,44.99,25.42,7.79,10.8
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,onset (y_t - y_t-3 > 30),stack,9114,41.92,23.5,14.09,17.53
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,winter (Nov-Feb),best_tree,51782,20.53,9.44,13.16,12.59
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,winter (Nov-Feb),climatology,51782,93.3,57.04,-294.75,-428.38
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,winter (Nov-Feb),equal_neural_ens,51782,19.97,9.18,15.49,14.95
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,winter (Nov-Feb),persistence,51782,23.63,10.8,0.0,0.0
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,winter (Nov-Feb),ridge,51782,21.7,10.1,8.18,6.48
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,winter (Nov-Feb),stack,51782,20.11,9.17,14.9,15.06
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,other months (Mar-Oct),best_tree,99497,10.57,5.25,10.78,8.72
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,other months (Mar-Oct),climatology,99497,44.48,37.43,-275.6,-550.83
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,other months (Mar-Oct),equal_neural_ens,99497,10.49,5.25,11.46,8.74
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,other months (Mar-Oct),persistence,99497,11.84,5.75,0.0,0.0
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,other months (Mar-Oct),ridge,99497,11.03,5.75,6.88,-0.03
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,other months (Mar-Oct),stack,99497,10.48,5.21,11.49,9.39
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,all,best_tree,151279,14.75,6.68,12.37,10.63
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,all,climatology,151279,65.43,44.15,-288.62,-490.33
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,all,equal_neural_ens,151279,14.45,6.6,14.16,11.81
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,all,persistence,151279,16.84,7.48,0.0,0.0
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,all,ridge,151279,15.53,7.24,7.76,3.19
+P2_2023_ALL20_h1_direct_openmeteo,P2_2023,ALL20,1,openmeteo,all,stack,151279,14.52,6.57,13.77,12.19
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,y_t >= 60,best_tree,41695,48.89,29.25,32.7,34.43
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,y_t >= 60,climatology,41695,104.0,63.34,-43.19,-41.99
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,y_t >= 60,equal_neural_ens,41695,48.57,29.04,33.13,34.89
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,y_t >= 60,persistence,41695,72.63,44.61,0.0,0.0
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,y_t >= 60,ridge,41695,51.42,30.89,29.21,30.76
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,y_t >= 60,same_hour_yesterday,41695,62.99,36.94,13.27,17.19
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,y_t >= 60,stack,41695,48.26,28.63,33.56,35.82
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,y_t >= 120,best_tree,14336,69.83,46.65,34.87,38.9
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,y_t >= 120,climatology,14336,163.86,125.8,-52.83,-64.77
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,y_t >= 120,equal_neural_ens,14336,69.24,45.96,35.42,39.8
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,y_t >= 120,persistence,14336,107.21,76.35,0.0,0.0
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,y_t >= 120,ridge,14336,73.44,49.96,31.5,34.56
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,y_t >= 120,same_hour_yesterday,14336,89.49,59.39,16.53,22.22
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,y_t >= 120,stack,14336,68.82,45.53,35.81,40.36
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,y_t >= 250,best_tree,3766,95.37,68.7,38.8,42.19
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,y_t >= 250,climatology,3766,237.61,207.02,-52.47,-74.22
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,y_t >= 250,equal_neural_ens,3766,93.88,66.81,39.76,43.77
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,y_t >= 250,persistence,3766,155.84,118.82,0.0,0.0
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,y_t >= 250,ridge,3766,100.29,74.05,35.64,37.68
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,y_t >= 250,same_hour_yesterday,3766,122.21,87.51,21.58,26.35
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,y_t >= 250,stack,3766,93.31,66.49,40.12,44.04
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,onset (y_t - y_t-3 > 30),best_tree,9068,64.87,41.13,36.31,39.44
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,onset (y_t - y_t-3 > 30),climatology,9068,141.36,95.37,-38.78,-40.41
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,onset (y_t - y_t-3 > 30),equal_neural_ens,9068,64.7,40.61,36.48,40.21
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,onset (y_t - y_t-3 > 30),persistence,9068,101.86,67.92,0.0,0.0
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,onset (y_t - y_t-3 > 30),ridge,9068,67.83,43.81,33.4,35.5
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,onset (y_t - y_t-3 > 30),same_hour_yesterday,9068,82.11,51.34,19.39,24.41
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,onset (y_t - y_t-3 > 30),stack,9068,64.23,40.26,36.95,40.73
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,winter (Nov-Feb),best_tree,51365,42.58,22.68,29.97,29.72
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,winter (Nov-Feb),climatology,51365,93.18,57.04,-53.25,-76.76
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,winter (Nov-Feb),equal_neural_ens,51365,42.32,22.54,30.4,30.16
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,winter (Nov-Feb),persistence,51365,60.8,32.27,0.0,0.0
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,winter (Nov-Feb),ridge,51365,44.7,24.54,26.48,23.96
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,winter (Nov-Feb),same_hour_yesterday,51365,55.4,29.26,8.89,9.35
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,winter (Nov-Feb),stack,51365,42.03,22.2,30.88,31.21
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,other months (Mar-Oct),best_tree,98466,19.89,10.61,30.81,25.96
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,other months (Mar-Oct),climatology,98466,44.54,37.47,-54.89,-161.59
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,other months (Mar-Oct),equal_neural_ens,98466,19.92,10.61,30.71,25.93
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,other months (Mar-Oct),persistence,98466,28.75,14.32,0.0,0.0
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,other months (Mar-Oct),ridge,98466,21.42,11.8,25.49,17.63
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,other months (Mar-Oct),same_hour_yesterday,98466,25.53,12.89,11.19,10.03
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,other months (Mar-Oct),stack,98466,19.78,10.38,31.22,27.51
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,all,best_tree,149831,29.69,14.75,30.22,27.99
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,all,climatology,149831,65.42,44.18,-53.74,-115.76
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,all,equal_neural_ens,149831,29.58,14.7,30.49,28.21
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,all,persistence,149831,42.55,20.48,0.0,0.0
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,all,ridge,149831,31.41,16.17,26.18,21.05
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,all,same_hour_yesterday,149831,38.48,18.5,9.57,9.66
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,all,stack,149831,29.37,14.43,30.98,29.51
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,y_t >= 60,best_tree,41695,47.73,28.55,34.29,36.0
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,y_t >= 60,climatology,41695,104.0,63.34,-43.19,-41.99
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,y_t >= 60,equal_neural_ens,41695,46.3,27.76,36.26,37.78
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,y_t >= 60,persistence,41695,72.63,44.61,0.0,0.0
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,y_t >= 60,ridge,41695,50.15,30.51,30.96,31.62
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,y_t >= 60,same_hour_yesterday,41695,62.99,36.94,13.27,17.19
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,y_t >= 60,stack,41695,46.02,27.36,36.64,38.66
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,y_t >= 120,best_tree,14336,68.79,45.78,35.84,40.04
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,y_t >= 120,climatology,14336,163.86,125.8,-52.83,-64.77
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,y_t >= 120,equal_neural_ens,14336,66.13,44.11,38.32,42.23
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,y_t >= 120,persistence,14336,107.21,76.35,0.0,0.0
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,y_t >= 120,ridge,14336,71.84,48.76,32.99,36.14
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,y_t >= 120,same_hour_yesterday,14336,89.49,59.39,16.53,22.22
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,y_t >= 120,stack,14336,65.95,43.66,38.49,42.82
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,y_t >= 250,best_tree,3766,94.68,68.02,39.24,42.76
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,y_t >= 250,climatology,3766,237.61,207.02,-52.47,-74.22
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,y_t >= 250,equal_neural_ens,3766,89.83,64.41,42.36,45.8
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,y_t >= 250,persistence,3766,155.84,118.82,0.0,0.0
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,y_t >= 250,ridge,3766,98.78,72.94,36.61,38.61
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,y_t >= 250,same_hour_yesterday,3766,122.21,87.51,21.58,26.35
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,y_t >= 250,stack,3766,90.12,64.44,42.17,45.77
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,onset (y_t - y_t-3 > 30),best_tree,9068,63.44,39.93,37.72,41.22
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,onset (y_t - y_t-3 > 30),climatology,9068,141.36,95.37,-38.78,-40.41
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,onset (y_t - y_t-3 > 30),equal_neural_ens,9068,61.06,38.26,40.05,43.68
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,onset (y_t - y_t-3 > 30),persistence,9068,101.86,67.92,0.0,0.0
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,onset (y_t - y_t-3 > 30),ridge,9068,66.22,43.03,34.98,36.65
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,onset (y_t - y_t-3 > 30),same_hour_yesterday,9068,82.11,51.34,19.39,24.41
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,onset (y_t - y_t-3 > 30),stack,9068,60.86,37.95,40.25,44.13
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,winter (Nov-Feb),best_tree,51365,41.36,22.03,31.98,31.75
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,winter (Nov-Feb),climatology,51365,93.18,57.04,-53.25,-76.76
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,winter (Nov-Feb),equal_neural_ens,51365,40.16,21.46,33.95,33.5
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,winter (Nov-Feb),persistence,51365,60.8,32.27,0.0,0.0
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,winter (Nov-Feb),ridge,51365,43.67,24.25,28.18,24.86
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,winter (Nov-Feb),same_hour_yesterday,51365,55.4,29.26,8.89,9.35
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,winter (Nov-Feb),stack,51365,39.94,21.13,34.31,34.51
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,other months (Mar-Oct),best_tree,98466,19.34,10.36,32.74,27.66
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,other months (Mar-Oct),climatology,98466,44.54,37.47,-54.89,-161.59
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,other months (Mar-Oct),equal_neural_ens,98466,19.13,10.27,33.48,28.33
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,other months (Mar-Oct),persistence,98466,28.75,14.32,0.0,0.0
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,other months (Mar-Oct),ridge,98466,21.37,12.63,25.67,11.85
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,other months (Mar-Oct),same_hour_yesterday,98466,25.53,12.89,11.19,10.03
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,other months (Mar-Oct),stack,98466,18.89,10.03,34.31,29.96
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,all,best_tree,149831,28.85,14.36,32.2,29.87
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,all,climatology,149831,65.42,44.18,-53.74,-115.76
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,all,equal_neural_ens,149831,28.16,14.1,33.81,31.12
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,all,persistence,149831,42.55,20.48,0.0,0.0
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,all,ridge,149831,30.89,16.61,27.42,18.88
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,all,same_hour_yesterday,149831,38.48,18.5,9.57,9.66
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,all,stack,149831,27.95,13.84,34.31,32.42
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,y_t >= 60,best_tree,41397,52.16,31.53,36.36,39.91
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,y_t >= 60,climatology,41397,102.51,62.06,-25.06,-18.26
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,y_t >= 60,equal_neural_ens,41397,52.0,31.56,36.56,39.86
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,y_t >= 60,persistence,41397,81.96,52.47,0.0,0.0
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,y_t >= 60,ridge,41397,54.01,32.8,34.11,37.49
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,y_t >= 60,same_hour_yesterday,41397,61.8,36.13,24.6,31.15
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,y_t >= 60,stack,41397,51.8,31.19,36.8,40.55
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,y_t >= 120,best_tree,14235,72.18,48.0,40.43,46.83
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,y_t >= 120,climatology,14235,157.98,116.13,-30.37,-28.64
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,y_t >= 120,equal_neural_ens,14235,71.92,48.03,40.65,46.79
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,y_t >= 120,persistence,14235,121.18,90.28,0.0,0.0
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,y_t >= 120,ridge,14235,75.14,51.0,37.99,43.51
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,y_t >= 120,same_hour_yesterday,14235,85.61,55.32,29.35,38.72
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,y_t >= 120,stack,14235,71.61,47.59,40.91,47.28
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,y_t >= 250,best_tree,3698,96.35,69.91,45.05,49.08
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,y_t >= 250,climatology,3698,222.9,189.59,-27.13,-38.1
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,y_t >= 250,equal_neural_ens,3698,95.03,68.93,45.8,49.79
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,y_t >= 250,persistence,3698,175.34,137.29,0.0,0.0
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,y_t >= 250,ridge,3698,99.55,74.52,43.22,45.72
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,y_t >= 250,same_hour_yesterday,3698,113.09,81.79,35.5,40.42
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,y_t >= 250,stack,3698,94.88,68.8,45.89,49.89
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,onset (y_t - y_t-3 > 30),best_tree,8997,63.42,39.26,43.95,49.4
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,onset (y_t - y_t-3 > 30),climatology,8997,128.41,82.31,-13.49,-6.08
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,onset (y_t - y_t-3 > 30),equal_neural_ens,8997,62.8,39.06,44.49,49.67
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,onset (y_t - y_t-3 > 30),persistence,8997,113.15,77.6,0.0,0.0
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,onset (y_t - y_t-3 > 30),ridge,8997,66.79,42.1,40.97,45.74
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,onset (y_t - y_t-3 > 30),same_hour_yesterday,8997,74.97,45.32,33.74,41.59
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,onset (y_t - y_t-3 > 30),stack,8997,62.78,38.79,44.51,50.01
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,winter (Nov-Feb),best_tree,50970,46.87,25.68,31.74,31.94
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,winter (Nov-Feb),climatology,50970,93.15,57.04,-35.66,-51.18
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,winter (Nov-Feb),equal_neural_ens,50970,46.61,25.48,32.11,32.46
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,winter (Nov-Feb),persistence,50970,68.66,37.73,0.0,0.0
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,winter (Nov-Feb),ridge,50970,48.51,27.41,29.35,27.34
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,winter (Nov-Feb),same_hour_yesterday,50970,55.41,29.28,19.31,22.41
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,winter (Nov-Feb),stack,50970,46.52,25.34,32.25,32.84
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,other months (Mar-Oct),best_tree,97425,21.53,11.99,36.08,29.79
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,other months (Mar-Oct),climatology,97425,44.59,37.52,-32.41,-119.7
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,other months (Mar-Oct),equal_neural_ens,97425,21.66,11.77,35.7,31.05
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,other months (Mar-Oct),persistence,97425,33.68,17.08,0.0,0.0
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,other months (Mar-Oct),ridge,97425,22.66,12.71,32.73,25.58
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,other months (Mar-Oct),same_hour_yesterday,97425,25.58,12.91,24.05,24.42
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,other months (Mar-Oct),stack,97425,21.47,11.73,36.25,31.29
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,all,best_tree,148395,32.54,16.69,33.08,30.95
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,all,climatology,148395,65.47,44.22,-34.64,-82.96
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,all,equal_neural_ens,148395,32.47,16.48,33.22,31.81
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,all,persistence,148395,48.62,24.17,0.0,0.0
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,all,ridge,148395,33.84,17.76,30.4,26.52
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,all,same_hour_yesterday,148395,38.52,18.53,20.77,23.34
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,all,stack,148395,32.34,16.41,33.48,32.12
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,y_t >= 60,best_tree,41397,50.82,30.87,38.0,41.16
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,y_t >= 60,climatology,41397,102.51,62.06,-25.06,-18.26
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,y_t >= 60,equal_neural_ens,41397,49.45,29.96,39.66,42.9
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,y_t >= 60,persistence,41397,81.96,52.47,0.0,0.0
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,y_t >= 60,ridge,41397,52.85,32.71,35.52,37.67
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,y_t >= 60,same_hour_yesterday,41397,61.8,36.13,24.6,31.15
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,y_t >= 60,stack,41397,49.14,29.6,40.05,43.59
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,y_t >= 120,best_tree,14235,71.1,47.22,41.33,47.7
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,y_t >= 120,climatology,14235,157.98,116.13,-30.37,-28.64
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,y_t >= 120,equal_neural_ens,14235,68.86,45.58,43.17,49.51
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,y_t >= 120,persistence,14235,121.18,90.28,0.0,0.0
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,y_t >= 120,ridge,14235,73.82,50.43,39.08,44.14
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,y_t >= 120,same_hour_yesterday,14235,85.61,55.32,29.35,38.72
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,y_t >= 120,stack,14235,68.39,45.11,43.56,50.03
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,y_t >= 250,best_tree,3698,95.64,68.56,45.45,50.06
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,y_t >= 250,climatology,3698,222.9,189.59,-27.13,-38.1
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,y_t >= 250,equal_neural_ens,3698,90.8,65.48,48.21,52.3
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,y_t >= 250,persistence,3698,175.34,137.29,0.0,0.0
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,y_t >= 250,ridge,3698,98.06,73.27,44.07,46.63
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,y_t >= 250,same_hour_yesterday,3698,113.09,81.79,35.5,40.42
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,y_t >= 250,stack,3698,90.43,65.26,48.43,52.46
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,onset (y_t - y_t-3 > 30),best_tree,8997,62.27,38.67,44.96,50.17
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,onset (y_t - y_t-3 > 30),climatology,8997,128.41,82.31,-13.49,-6.08
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,onset (y_t - y_t-3 > 30),equal_neural_ens,8997,60.61,37.39,46.43,51.82
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,onset (y_t - y_t-3 > 30),persistence,8997,113.15,77.6,0.0,0.0
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,onset (y_t - y_t-3 > 30),ridge,8997,65.72,42.06,41.92,45.8
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,onset (y_t - y_t-3 > 30),same_hour_yesterday,8997,74.97,45.32,33.74,41.59
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,onset (y_t - y_t-3 > 30),stack,8997,60.12,36.86,46.87,52.5
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,winter (Nov-Feb),best_tree,50970,45.46,24.77,33.8,34.36
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,winter (Nov-Feb),climatology,50970,93.15,57.04,-35.66,-51.18
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,winter (Nov-Feb),equal_neural_ens,50970,44.22,24.0,35.59,36.39
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,winter (Nov-Feb),persistence,50970,68.66,37.73,0.0,0.0
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,winter (Nov-Feb),ridge,50970,47.3,26.74,31.11,29.13
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,winter (Nov-Feb),same_hour_yesterday,50970,55.41,29.28,19.31,22.41
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,winter (Nov-Feb),stack,50970,43.98,23.73,35.95,37.1
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,other months (Mar-Oct),best_tree,97425,20.84,11.46,38.12,32.92
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,other months (Mar-Oct),climatology,97425,44.59,37.52,-32.41,-119.7
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,other months (Mar-Oct),equal_neural_ens,97425,20.62,11.28,38.78,33.95
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,other months (Mar-Oct),persistence,97425,33.68,17.08,0.0,0.0
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,other months (Mar-Oct),ridge,97425,22.67,13.6,32.7,20.39
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,other months (Mar-Oct),same_hour_yesterday,97425,25.58,12.91,24.05,24.42
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,other months (Mar-Oct),stack,97425,20.45,11.03,39.28,35.38
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,all,best_tree,148395,31.54,16.03,35.13,33.69
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,all,climatology,148395,65.47,44.22,-34.64,-82.96
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,all,equal_neural_ens,148395,30.84,15.65,36.58,35.26
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,all,persistence,148395,48.62,24.17,0.0,0.0
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,all,ridge,148395,33.26,18.11,31.6,25.08
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,all,same_hour_yesterday,148395,38.52,18.53,20.77,23.34
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,all,stack,148395,30.64,15.4,36.98,36.3
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,y_t >= 60,best_tree,41093,57.82,36.06,14.03,11.12
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,y_t >= 60,climatology,41093,104.75,64.59,-55.74,-59.2
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,y_t >= 60,equal_neural_ens,41093,57.56,35.96,14.43,11.37
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,y_t >= 60,persistence,41093,67.26,40.57,0.0,0.0
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,y_t >= 60,ridge,41093,59.7,36.95,11.25,8.92
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,y_t >= 60,same_hour_yesterday,41093,67.26,40.57,0.0,0.0
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,y_t >= 60,stack,41093,57.93,35.92,13.88,11.46
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,y_t >= 120,best_tree,14148,84.85,59.7,16.92,15.65
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,y_t >= 120,climatology,14148,167.32,129.58,-63.83,-83.11
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,y_t >= 120,equal_neural_ens,14148,84.51,59.59,17.25,15.8
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,y_t >= 120,persistence,14148,102.13,70.77,0.0,0.0
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,y_t >= 120,ridge,14148,88.27,62.04,13.57,12.33
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,y_t >= 120,same_hour_yesterday,14148,102.13,70.77,0.0,0.0
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,y_t >= 120,stack,14148,85.11,59.54,16.66,15.87
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,y_t >= 250,best_tree,3646,108.61,81.91,27.45,26.69
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,y_t >= 250,climatology,3646,247.77,217.34,-65.5,-94.51
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,y_t >= 250,equal_neural_ens,3646,108.13,81.82,27.77,26.77
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,y_t >= 250,persistence,3646,149.7,111.74,0.0,0.0
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,y_t >= 250,ridge,3646,115.95,88.78,22.55,20.54
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,y_t >= 250,same_hour_yesterday,3646,149.7,111.74,0.0,0.0
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,y_t >= 250,stack,3646,108.78,81.88,27.33,26.72
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,onset (y_t - y_t-3 > 30),best_tree,8966,74.82,49.03,23.09,21.63
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,onset (y_t - y_t-3 > 30),climatology,8966,142.35,94.7,-46.33,-51.36
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,onset (y_t - y_t-3 > 30),equal_neural_ens,8966,74.65,49.09,23.27,21.53
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,onset (y_t - y_t-3 > 30),persistence,8966,97.28,62.56,0.0,0.0
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,onset (y_t - y_t-3 > 30),ridge,8966,78.85,51.59,18.94,17.54
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,onset (y_t - y_t-3 > 30),same_hour_yesterday,8966,97.28,62.56,0.0,0.0
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,onset (y_t - y_t-3 > 30),stack,8966,75.06,48.85,22.84,21.91
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,winter (Nov-Feb),best_tree,50516,49.22,27.53,11.91,6.37
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,winter (Nov-Feb),climatology,50516,93.05,57.01,-66.54,-93.89
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,winter (Nov-Feb),equal_neural_ens,50516,48.92,27.45,12.43,6.65
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,winter (Nov-Feb),persistence,50516,55.87,29.4,0.0,0.0
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,winter (Nov-Feb),ridge,50516,50.74,29.14,9.18,0.88
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,winter (Nov-Feb),same_hour_yesterday,50516,55.87,29.4,0.0,0.0
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,winter (Nov-Feb),stack,50516,49.26,27.25,11.84,7.33
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,other months (Mar-Oct),best_tree,96235,21.99,12.65,14.48,2.36
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,other months (Mar-Oct),climatology,96235,44.5,37.43,-73.02,-188.98
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,other months (Mar-Oct),equal_neural_ens,96235,21.92,12.12,14.78,6.42
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,other months (Mar-Oct),persistence,96235,25.72,12.95,0.0,0.0
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,other months (Mar-Oct),ridge,96235,22.71,12.59,11.69,2.78
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,other months (Mar-Oct),same_hour_yesterday,96235,25.72,12.95,0.0,0.0
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,other months (Mar-Oct),stack,96235,21.96,12.11,14.6,6.5
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,all,best_tree,146751,33.93,17.77,12.64,4.54
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,all,climatology,146751,65.41,44.17,-68.43,-137.28
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,all,equal_neural_ens,146751,33.75,17.4,13.1,6.55
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,all,persistence,146751,38.84,18.61,0.0,0.0
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,all,ridge,146751,34.99,18.29,9.9,1.75
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,all,same_hour_yesterday,146751,38.84,18.61,0.0,0.0
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,all,stack,146751,33.93,17.32,12.62,6.95
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,y_t >= 60,best_tree,41093,56.62,35.05,15.82,13.6
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,y_t >= 60,climatology,41093,104.75,64.59,-55.74,-59.2
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,y_t >= 60,equal_neural_ens,41093,55.06,34.27,18.14,15.53
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,y_t >= 60,persistence,41093,67.26,40.57,0.0,0.0
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,y_t >= 60,ridge,41093,58.0,36.36,13.77,10.38
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,y_t >= 60,same_hour_yesterday,41093,67.26,40.57,0.0,0.0
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,y_t >= 60,stack,41093,55.53,34.17,17.44,15.78
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,y_t >= 120,best_tree,14148,83.39,57.87,18.35,18.22
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,y_t >= 120,climatology,14148,167.32,129.58,-63.83,-83.11
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,y_t >= 120,equal_neural_ens,14148,80.77,56.13,20.91,20.68
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,y_t >= 120,persistence,14148,102.13,70.77,0.0,0.0
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,y_t >= 120,ridge,14148,85.93,60.45,15.86,14.58
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,y_t >= 120,same_hour_yesterday,14148,102.13,70.77,0.0,0.0
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,y_t >= 120,stack,14148,81.64,56.2,20.06,20.58
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,y_t >= 250,best_tree,3646,110.49,82.45,26.2,26.21
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,y_t >= 250,climatology,3646,247.77,217.34,-65.5,-94.51
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,y_t >= 250,equal_neural_ens,3646,105.1,79.1,29.8,29.21
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,y_t >= 250,persistence,3646,149.7,111.74,0.0,0.0
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,y_t >= 250,ridge,3646,113.24,86.81,24.36,22.31
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,y_t >= 250,same_hour_yesterday,3646,149.7,111.74,0.0,0.0
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,y_t >= 250,stack,3646,106.18,79.69,29.07,28.68
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,onset (y_t - y_t-3 > 30),best_tree,8966,74.13,48.06,23.8,23.18
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,onset (y_t - y_t-3 > 30),climatology,8966,142.35,94.7,-46.33,-51.36
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,onset (y_t - y_t-3 > 30),equal_neural_ens,8966,71.19,46.01,26.82,26.46
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,onset (y_t - y_t-3 > 30),persistence,8966,97.28,62.56,0.0,0.0
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,onset (y_t - y_t-3 > 30),ridge,8966,76.38,50.22,21.48,19.72
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,onset (y_t - y_t-3 > 30),same_hour_yesterday,8966,97.28,62.56,0.0,0.0
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,onset (y_t - y_t-3 > 30),stack,8966,72.05,46.1,25.94,26.32
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,winter (Nov-Feb),best_tree,50516,48.21,26.6,13.71,9.51
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,winter (Nov-Feb),climatology,50516,93.05,57.01,-66.54,-93.89
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,winter (Nov-Feb),equal_neural_ens,50516,46.78,25.99,16.27,11.6
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,winter (Nov-Feb),persistence,50516,55.87,29.4,0.0,0.0
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,winter (Nov-Feb),ridge,50516,49.3,28.03,11.76,4.65
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,winter (Nov-Feb),same_hour_yesterday,50516,55.87,29.4,0.0,0.0
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,winter (Nov-Feb),stack,50516,47.2,25.71,15.51,12.56
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,other months (Mar-Oct),best_tree,96235,21.71,12.65,15.61,2.3
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,other months (Mar-Oct),climatology,96235,44.5,37.43,-73.02,-188.98
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,other months (Mar-Oct),equal_neural_ens,96235,21.31,11.77,17.13,9.12
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,other months (Mar-Oct),persistence,96235,25.72,12.95,0.0,0.0
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,other months (Mar-Oct),ridge,96235,23.03,13.97,10.45,-7.89
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,other months (Mar-Oct),same_hour_yesterday,96235,25.72,12.95,0.0,0.0
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,other months (Mar-Oct),stack,96235,21.27,11.6,17.3,10.47
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,all,best_tree,146751,33.3,17.46,14.25,6.22
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,all,climatology,146751,65.41,44.17,-68.43,-137.28
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,all,equal_neural_ens,146751,32.42,16.67,16.52,10.47
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,all,persistence,146751,38.84,18.61,0.0,0.0
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,all,ridge,146751,34.42,18.81,11.38,-1.07
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,all,same_hour_yesterday,146751,38.84,18.61,0.0,0.0
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,all,stack,146751,32.61,16.45,16.02,11.61
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,y_t >= 60,best_tree,32782,26.59,15.47,11.52,12.0
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,y_t >= 60,climatology,32782,119.93,73.41,-299.06,-317.65
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,y_t >= 60,equal_neural_ens,32782,26.24,15.22,12.67,13.41
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,y_t >= 60,persistence,32782,30.05,17.58,0.0,0.0
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,y_t >= 60,ridge,32782,27.66,16.12,7.96,8.31
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,y_t >= 60,stack,32782,26.24,15.22,12.7,13.4
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,y_t >= 120,best_tree,12375,37.61,24.53,12.07,12.42
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,y_t >= 120,climatology,12375,191.06,156.47,-346.65,-458.55
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,y_t >= 120,equal_neural_ens,12375,37.06,24.11,13.37,13.93
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,y_t >= 120,persistence,12375,42.78,28.01,0.0,0.0
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,y_t >= 120,ridge,12375,39.17,25.6,8.44,8.61
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,y_t >= 120,stack,12375,37.04,24.1,13.42,13.98
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,y_t >= 250,best_tree,3570,53.17,37.47,12.18,10.64
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,y_t >= 250,climatology,3570,304.74,281.0,-403.37,-570.08
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,y_t >= 250,equal_neural_ens,3570,52.06,36.63,14.0,12.65
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,y_t >= 250,persistence,3570,60.54,41.94,0.0,0.0
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,y_t >= 250,ridge,3570,55.37,38.63,8.54,7.88
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,y_t >= 250,stack,3570,52.02,36.59,14.08,12.75
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,onset (y_t - y_t-3 > 30),best_tree,7911,40.08,25.86,12.01,12.09
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,onset (y_t - y_t-3 > 30),climatology,7911,177.38,121.97,-289.4,-314.55
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,onset (y_t - y_t-3 > 30),equal_neural_ens,7911,39.55,25.61,13.16,12.95
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,onset (y_t - y_t-3 > 30),persistence,7911,45.55,29.42,0.0,0.0
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,onset (y_t - y_t-3 > 30),ridge,7911,42.0,27.12,7.79,7.83
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,onset (y_t - y_t-3 > 30),stack,7911,39.52,25.61,13.23,12.95
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,winter (Nov-Feb),best_tree,51024,17.88,8.64,11.56,10.47
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,winter (Nov-Feb),climatology,51024,94.07,54.2,-365.35,-461.85
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,winter (Nov-Feb),equal_neural_ens,51024,17.54,8.47,13.22,12.22
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,winter (Nov-Feb),persistence,51024,20.22,9.65,0.0,0.0
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,winter (Nov-Feb),ridge,51024,18.58,9.08,8.11,5.91
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,winter (Nov-Feb),stack,51024,17.53,8.47,13.29,12.16
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,other months (Mar-Oct),best_tree,95645,11.1,5.14,10.06,7.3
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,other months (Mar-Oct),climatology,95645,45.6,39.11,-269.34,-606.02
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,other months (Mar-Oct),equal_neural_ens,95645,11.12,5.13,9.9,7.43
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,other months (Mar-Oct),persistence,95645,12.35,5.54,0.0,0.0
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,other months (Mar-Oct),ridge,95645,11.64,5.42,5.71,2.1
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,other months (Mar-Oct),stack,95645,11.12,5.14,9.92,7.31
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,all,best_tree,146669,13.84,6.35,10.94,8.82
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,all,climatology,146669,66.59,44.36,-328.46,-536.59
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,all,equal_neural_ens,146669,13.7,6.29,11.84,9.74
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,all,persistence,146669,15.54,6.97,0.0,0.0
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,all,ridge,146669,14.44,6.69,7.11,3.94
+P2_2024_ALL19_h1_direct_none,P2_2024,ALL19,1,none,all,stack,146669,13.69,6.3,11.89,9.64
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,y_t >= 60,best_tree,32782,26.68,15.49,11.24,11.86
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,y_t >= 60,climatology,32782,119.93,73.41,-299.06,-317.65
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,y_t >= 60,equal_neural_ens,32782,26.16,15.3,12.95,12.95
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,y_t >= 60,persistence,32782,30.05,17.58,0.0,0.0
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,y_t >= 60,ridge,32782,27.43,16.01,8.73,8.89
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,y_t >= 60,stack,32782,26.21,15.31,12.78,12.89
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,y_t >= 120,best_tree,12375,37.74,24.6,11.77,12.18
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,y_t >= 120,climatology,12375,191.06,156.47,-346.65,-458.55
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,y_t >= 120,equal_neural_ens,12375,36.75,24.07,14.08,14.07
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,y_t >= 120,persistence,12375,42.78,28.01,0.0,0.0
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,y_t >= 120,ridge,12375,38.86,25.33,9.16,9.6
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,y_t >= 120,stack,12375,36.83,24.09,13.89,14.0
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,y_t >= 250,best_tree,3570,53.29,37.53,11.98,10.51
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,y_t >= 250,climatology,3570,304.74,281.0,-403.37,-570.08
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,y_t >= 250,equal_neural_ens,3570,51.25,36.14,15.34,13.81
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,y_t >= 250,persistence,3570,60.54,41.94,0.0,0.0
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,y_t >= 250,ridge,3570,55.05,38.3,9.07,8.67
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,y_t >= 250,stack,3570,51.43,36.28,15.05,13.5
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,onset (y_t - y_t-3 > 30),best_tree,7911,40.34,25.88,11.43,12.03
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,onset (y_t - y_t-3 > 30),climatology,7911,177.38,121.97,-289.4,-314.55
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,onset (y_t - y_t-3 > 30),equal_neural_ens,7911,39.36,25.54,13.59,13.2
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,onset (y_t - y_t-3 > 30),persistence,7911,45.55,29.42,0.0,0.0
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,onset (y_t - y_t-3 > 30),ridge,7911,41.76,26.85,8.32,8.73
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,onset (y_t - y_t-3 > 30),stack,7911,39.47,25.62,13.35,12.92
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,winter (Nov-Feb),best_tree,51024,17.93,8.67,11.29,10.18
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,winter (Nov-Feb),climatology,51024,94.07,54.2,-365.35,-461.85
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,winter (Nov-Feb),equal_neural_ens,51024,17.28,8.48,14.54,12.09
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,winter (Nov-Feb),persistence,51024,20.22,9.65,0.0,0.0
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,winter (Nov-Feb),ridge,51024,18.45,9.17,8.72,4.91
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,winter (Nov-Feb),stack,51024,17.32,8.51,14.3,11.84
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,other months (Mar-Oct),best_tree,95645,11.13,5.13,9.86,7.35
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,other months (Mar-Oct),climatology,95645,45.6,39.11,-269.34,-606.02
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,other months (Mar-Oct),equal_neural_ens,95645,11.29,5.2,8.56,6.1
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,other months (Mar-Oct),persistence,95645,12.35,5.54,0.0,0.0
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,other months (Mar-Oct),ridge,95645,11.64,5.62,5.73,-1.5
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,other months (Mar-Oct),stack,95645,11.28,5.21,8.6,5.98
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,all,best_tree,146669,13.88,6.36,10.7,8.72
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,all,climatology,146669,66.59,44.36,-328.46,-536.59
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,all,equal_neural_ens,146669,13.67,6.34,12.03,8.98
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,all,persistence,146669,15.54,6.97,0.0,0.0
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,all,ridge,146669,14.38,6.86,7.48,1.59
+P2_2024_ALL19_h1_direct_openmeteo,P2_2024,ALL19,1,openmeteo,all,stack,146669,13.69,6.36,11.91,8.8
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,y_t >= 60,best_tree,31980,65.21,39.93,13.46,12.64
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,y_t >= 60,climatology,31980,120.94,74.0,-60.51,-61.87
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,y_t >= 60,equal_neural_ens,31980,64.94,40.23,13.82,11.99
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,y_t >= 60,persistence,31980,75.35,45.71,0.0,0.0
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,y_t >= 60,ridge,31980,67.36,40.65,10.61,11.09
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,y_t >= 60,same_hour_yesterday,31980,75.35,45.71,0.0,0.0
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,y_t >= 60,stack,31980,64.95,40.11,13.8,12.25
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,y_t >= 120,best_tree,12128,93.9,63.62,15.26,16.78
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,y_t >= 120,climatology,12128,186.65,144.34,-68.45,-88.79
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,y_t >= 120,equal_neural_ens,12128,93.43,64.18,15.68,16.05
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,y_t >= 120,persistence,12128,110.8,76.45,0.0,0.0
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,y_t >= 120,ridge,12128,97.68,65.54,11.84,14.27
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,y_t >= 120,same_hour_yesterday,12128,110.8,76.45,0.0,0.0
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,y_t >= 120,stack,12128,93.5,63.96,15.62,16.35
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,y_t >= 250,best_tree,3522,126.19,90.56,22.29,26.62
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,y_t >= 250,climatology,3522,267.74,226.77,-64.88,-83.75
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,y_t >= 250,equal_neural_ens,3522,125.64,91.47,22.63,25.88
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,y_t >= 250,persistence,3522,162.39,123.41,0.0,0.0
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,y_t >= 250,ridge,3522,133.86,97.23,17.57,21.21
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,y_t >= 250,same_hour_yesterday,3522,162.39,123.41,0.0,0.0
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,y_t >= 250,stack,3522,125.87,91.29,22.49,26.03
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,onset (y_t - y_t-3 > 30),best_tree,7636,79.16,50.16,20.45,22.52
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,onset (y_t - y_t-3 > 30),climatology,7636,155.35,101.49,-56.12,-56.76
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,onset (y_t - y_t-3 > 30),equal_neural_ens,7636,78.51,50.33,21.1,22.26
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,onset (y_t - y_t-3 > 30),persistence,7636,99.5,64.74,0.0,0.0
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,onset (y_t - y_t-3 > 30),ridge,7636,81.94,51.69,17.65,20.17
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,onset (y_t - y_t-3 > 30),same_hour_yesterday,7636,99.5,64.74,0.0,0.0
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,onset (y_t - y_t-3 > 30),stack,7636,78.59,50.18,21.02,22.49
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,winter (Nov-Feb),best_tree,50079,49.12,25.32,13.34,9.05
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,winter (Nov-Feb),climatology,50079,95.14,54.76,-67.87,-96.71
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,winter (Nov-Feb),equal_neural_ens,50079,48.94,25.61,13.65,8.01
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,winter (Nov-Feb),persistence,50079,56.68,27.84,0.0,0.0
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,winter (Nov-Feb),ridge,50079,51.01,27.11,9.99,2.6
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,winter (Nov-Feb),same_hour_yesterday,50079,56.68,27.84,0.0,0.0
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,winter (Nov-Feb),stack,50079,48.95,25.51,13.64,8.36
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,other months (Mar-Oct),best_tree,92803,20.42,11.09,9.52,4.17
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,other months (Mar-Oct),climatology,92803,45.68,39.2,-102.42,-238.73
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,other months (Mar-Oct),equal_neural_ens,92803,20.32,10.9,9.97,5.81
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,other months (Mar-Oct),persistence,92803,22.57,11.57,0.0,0.0
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,other months (Mar-Oct),ridge,92803,21.02,11.69,6.84,-1.06
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,other months (Mar-Oct),same_hour_yesterday,92803,22.57,11.57,0.0,0.0
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,other months (Mar-Oct),stack,92803,20.3,10.92,10.04,5.66
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,all,best_tree,142882,33.41,16.08,12.45,6.92
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,all,climatology,142882,67.29,44.65,-76.31,-158.51
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,all,equal_neural_ens,142882,33.28,16.05,12.8,7.05
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,all,persistence,142882,38.17,17.27,0.0,0.0
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,all,ridge,142882,34.63,17.1,9.27,1.01
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,all,same_hour_yesterday,142882,38.17,17.27,0.0,0.0
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,all,stack,142882,33.28,16.03,12.81,7.19
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,y_t >= 60,best_tree,31980,63.48,39.32,15.76,13.99
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,y_t >= 60,climatology,31980,120.94,74.0,-60.51,-61.87
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,y_t >= 60,equal_neural_ens,31980,63.18,38.56,16.15,15.65
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,y_t >= 60,persistence,31980,75.35,45.71,0.0,0.0
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,y_t >= 60,ridge,31980,66.27,40.71,12.06,10.95
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,y_t >= 60,same_hour_yesterday,31980,75.35,45.71,0.0,0.0
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,y_t >= 60,stack,31980,62.55,38.41,16.99,15.97
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,y_t >= 120,best_tree,12128,91.89,63.64,17.07,16.76
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,y_t >= 120,climatology,12128,186.65,144.34,-68.45,-88.79
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,y_t >= 120,equal_neural_ens,12128,91.63,61.91,17.3,19.03
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,y_t >= 120,persistence,12128,110.8,76.45,0.0,0.0
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,y_t >= 120,ridge,12128,96.19,64.72,13.19,15.35
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,y_t >= 120,same_hour_yesterday,12128,110.8,76.45,0.0,0.0
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,y_t >= 120,stack,12128,90.55,61.78,18.28,19.19
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,y_t >= 250,best_tree,3522,122.87,90.25,24.33,26.87
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,y_t >= 250,climatology,3522,267.74,226.77,-64.88,-83.75
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,y_t >= 250,equal_neural_ens,3522,123.97,89.4,23.66,27.56
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,y_t >= 250,persistence,3522,162.39,123.41,0.0,0.0
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,y_t >= 250,ridge,3522,131.87,95.02,18.79,23.01
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,y_t >= 250,same_hour_yesterday,3522,162.39,123.41,0.0,0.0
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,y_t >= 250,stack,3522,122.28,89.06,24.7,27.83
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,onset (y_t - y_t-3 > 30),best_tree,7636,76.83,49.46,22.79,23.61
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,onset (y_t - y_t-3 > 30),climatology,7636,155.35,101.49,-56.12,-56.76
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,onset (y_t - y_t-3 > 30),equal_neural_ens,7636,76.8,48.05,22.81,25.78
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,onset (y_t - y_t-3 > 30),persistence,7636,99.5,64.74,0.0,0.0
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,onset (y_t - y_t-3 > 30),ridge,7636,80.78,51.52,18.81,20.43
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,onset (y_t - y_t-3 > 30),same_hour_yesterday,7636,99.5,64.74,0.0,0.0
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,onset (y_t - y_t-3 > 30),stack,7636,75.98,47.95,23.64,25.94
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,winter (Nov-Feb),best_tree,50079,47.79,25.16,15.68,9.59
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,winter (Nov-Feb),climatology,50079,95.14,54.76,-67.87,-96.71
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,winter (Nov-Feb),equal_neural_ens,50079,47.65,25.04,15.92,10.05
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,winter (Nov-Feb),persistence,50079,56.68,27.84,0.0,0.0
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,winter (Nov-Feb),ridge,50079,50.32,27.09,11.22,2.69
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,winter (Nov-Feb),same_hour_yesterday,50079,56.68,27.84,0.0,0.0
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,winter (Nov-Feb),stack,50079,47.11,24.8,16.88,10.91
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,other months (Mar-Oct),best_tree,92803,20.12,10.87,10.85,6.07
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,other months (Mar-Oct),climatology,92803,45.68,39.2,-102.42,-238.73
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,other months (Mar-Oct),equal_neural_ens,92803,20.15,11.02,10.71,4.78
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,other months (Mar-Oct),persistence,92803,22.57,11.57,0.0,0.0
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,other months (Mar-Oct),ridge,92803,21.83,13.12,3.26,-13.38
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,other months (Mar-Oct),same_hour_yesterday,92803,22.57,11.57,0.0,0.0
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,other months (Mar-Oct),stack,92803,20.02,10.9,11.28,5.78
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,all,best_tree,142882,32.61,15.88,14.56,8.06
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,all,climatology,142882,67.29,44.65,-76.31,-158.51
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,all,equal_neural_ens,142882,32.55,15.93,14.71,7.76
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,all,persistence,142882,38.17,17.27,0.0,0.0
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,all,ridge,142882,34.6,18.02,9.35,-4.31
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,all,same_hour_yesterday,142882,38.17,17.27,0.0,0.0
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,all,stack,142882,32.22,15.77,15.57,8.68
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,y_t >= 60,best_tree,126201,35.26,21.98,6.51,8.08
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,y_t >= 60,climatology,126201,162.6,120.04,-331.07,-401.93
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,y_t >= 60,equal_neural_ens,126201,33.91,21.05,10.1,11.98
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,y_t >= 60,persistence,126201,37.72,23.92,0.0,0.0
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,y_t >= 60,ridge,126201,35.59,22.78,5.64,4.76
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,y_t >= 60,stack,126201,34.26,21.15,9.17,11.58
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,y_t >= 120,best_tree,68674,44.06,28.6,6.15,7.46
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,y_t >= 120,climatology,68674,215.26,183.33,-358.55,-493.18
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,y_t >= 120,equal_neural_ens,68674,42.23,27.14,10.05,12.18
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,y_t >= 120,persistence,68674,46.95,30.91,0.0,0.0
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,y_t >= 120,ridge,68674,44.22,29.34,5.81,5.07
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,y_t >= 120,stack,68674,42.75,27.32,8.94,11.6
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,y_t >= 250,best_tree,21079,63.4,43.09,3.33,1.63
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,y_t >= 250,climatology,21079,328.22,305.58,-400.42,-597.57
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,y_t >= 250,equal_neural_ens,21079,60.51,40.31,7.74,7.97
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,y_t >= 250,persistence,21079,65.59,43.81,0.0,0.0
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,y_t >= 250,ridge,21079,61.85,42.25,5.69,3.56
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,y_t >= 250,stack,21079,61.61,40.8,6.06,6.85
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,onset (y_t - y_t-3 > 30),best_tree,39708,48.65,30.98,5.01,6.41
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,onset (y_t - y_t-3 > 30),climatology,39708,214.34,165.78,-318.51,-400.79
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,onset (y_t - y_t-3 > 30),equal_neural_ens,39708,47.0,29.72,8.23,10.23
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,onset (y_t - y_t-3 > 30),persistence,39708,51.22,33.1,0.0,0.0
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,onset (y_t - y_t-3 > 30),ridge,39708,48.92,31.73,4.48,4.16
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,onset (y_t - y_t-3 > 30),stack,39708,47.55,29.89,7.16,9.7
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,winter (Nov-Feb),best_tree,71852,37.34,23.81,6.66,7.81
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,winter (Nov-Feb),climatology,71852,196.47,153.52,-391.11,-494.49
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,winter (Nov-Feb),equal_neural_ens,71852,35.81,22.44,10.48,13.11
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,winter (Nov-Feb),persistence,71852,40.01,25.82,0.0,0.0
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,winter (Nov-Feb),ridge,71852,38.07,25.1,4.84,2.82
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,winter (Nov-Feb),stack,71852,36.34,22.6,9.16,12.49
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,other months (Mar-Oct),best_tree,136196,22.76,12.77,6.1,6.77
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,other months (Mar-Oct),climatology,136196,66.36,40.29,-173.76,-194.13
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,other months (Mar-Oct),equal_neural_ens,136196,22.05,12.54,9.01,8.42
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,other months (Mar-Oct),persistence,136196,24.24,13.7,0.0,0.0
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,other months (Mar-Oct),ridge,136196,22.71,13.04,6.31,4.8
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,other months (Mar-Oct),stack,136196,22.1,12.56,8.84,8.32
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,all,best_tree,208048,28.65,16.58,6.43,7.29
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,all,climatology,208048,127.33,79.39,-315.9,-343.9
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,all,equal_neural_ens,208048,27.59,15.96,9.87,10.76
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,all,persistence,208048,30.62,17.88,0.0,0.0
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,all,ridge,208048,28.95,17.2,5.44,3.81
+P1_LOCO_Delhi_h1_direct_none,P1_LOCO,Delhi,1,none,all,stack,208048,27.85,16.03,9.03,10.39
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,y_t >= 60,best_tree,126201,36.54,22.97,3.13,3.94
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,y_t >= 60,climatology,126201,162.6,120.04,-331.07,-401.93
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,y_t >= 60,equal_neural_ens,126201,34.69,21.14,8.04,11.6
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,y_t >= 60,persistence,126201,37.72,23.92,0.0,0.0
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,y_t >= 60,ridge,126201,35.36,22.5,6.27,5.93
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,y_t >= 60,stack,126201,33.91,20.78,10.1,13.1
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,y_t >= 120,best_tree,68674,45.99,30.5,2.03,1.32
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,y_t >= 120,climatology,68674,215.26,183.33,-358.55,-493.18
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,y_t >= 120,equal_neural_ens,68674,43.46,27.47,7.42,11.11
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,y_t >= 120,persistence,68674,46.95,30.91,0.0,0.0
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,y_t >= 120,ridge,68674,44.02,29.07,6.23,5.94
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,y_t >= 120,stack,68674,42.32,26.81,9.84,13.26
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,y_t >= 250,best_tree,21079,67.64,48.94,-3.12,-11.72
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,y_t >= 250,climatology,21079,328.22,305.58,-400.42,-597.57
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,y_t >= 250,equal_neural_ens,21079,63.64,42.0,2.98,4.11
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,y_t >= 250,persistence,21079,65.59,43.81,0.0,0.0
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,y_t >= 250,ridge,21079,61.95,42.31,5.54,3.43
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,y_t >= 250,stack,21079,61.16,39.94,6.75,8.84
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,onset (y_t - y_t-3 > 30),best_tree,39708,50.54,32.78,1.32,0.97
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,onset (y_t - y_t-3 > 30),climatology,39708,214.34,165.78,-318.51,-400.79
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,onset (y_t - y_t-3 > 30),equal_neural_ens,39708,48.53,30.13,5.25,8.99
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,onset (y_t - y_t-3 > 30),persistence,39708,51.22,33.1,0.0,0.0
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,onset (y_t - y_t-3 > 30),ridge,39708,48.82,31.49,4.69,4.88
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,onset (y_t - y_t-3 > 30),stack,39708,47.29,29.41,7.66,11.16
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,winter (Nov-Feb),best_tree,71852,39.36,25.43,1.62,1.51
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,winter (Nov-Feb),climatology,71852,196.47,153.52,-391.11,-494.49
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,winter (Nov-Feb),equal_neural_ens,71852,36.93,22.59,7.69,12.52
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,winter (Nov-Feb),persistence,71852,40.01,25.82,0.0,0.0
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,winter (Nov-Feb),ridge,71852,37.87,24.85,5.34,3.75
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,winter (Nov-Feb),stack,71852,35.83,22.08,10.44,14.5
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,other months (Mar-Oct),best_tree,136196,22.78,12.79,6.02,6.64
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,other months (Mar-Oct),climatology,136196,66.36,40.29,-173.76,-194.13
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,other months (Mar-Oct),equal_neural_ens,136196,22.18,12.5,8.49,8.71
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,other months (Mar-Oct),persistence,136196,24.24,13.7,0.0,0.0
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,other months (Mar-Oct),ridge,136196,22.5,12.9,7.18,5.8
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,other months (Mar-Oct),stack,136196,22.01,12.48,9.18,8.92
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,all,best_tree,208048,29.57,17.15,3.4,4.08
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,all,climatology,208048,127.33,79.39,-315.9,-343.9
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,all,equal_neural_ens,208048,28.16,15.99,8.02,10.61
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,all,persistence,208048,30.62,17.88,0.0,0.0
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,all,ridge,208048,28.75,17.03,6.09,4.78
+P1_LOCO_Delhi_h1_direct_openmeteo,P1_LOCO,Delhi,1,openmeteo,all,stack,208048,27.58,15.79,9.93,11.7
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,y_t >= 60,best_tree,122464,89.76,56.93,2.82,4.99
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,y_t >= 60,climatology,122464,161.04,115.78,-74.35,-93.22
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,y_t >= 60,equal_neural_ens,122464,90.49,57.46,2.04,4.11
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,y_t >= 60,persistence,122464,92.37,59.92,0.0,0.0
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,y_t >= 60,ridge,122464,85.48,56.11,7.45,6.35
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,y_t >= 60,same_hour_yesterday,122464,92.37,59.92,0.0,0.0
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,y_t >= 60,stack,122464,90.49,57.66,2.04,3.77
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,y_t >= 120,best_tree,66502,112.19,76.43,3.23,5.95
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,y_t >= 120,climatology,66502,207.68,168.11,-79.15,-106.87
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,y_t >= 120,equal_neural_ens,66502,113.19,77.39,2.36,4.77
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,y_t >= 120,persistence,66502,115.93,81.26,0.0,0.0
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,y_t >= 120,ridge,66502,105.95,74.47,8.61,8.36
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,y_t >= 120,same_hour_yesterday,66502,115.93,81.26,0.0,0.0
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,y_t >= 120,stack,66502,113.15,77.7,2.4,4.39
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,y_t >= 250,best_tree,20451,151.99,109.85,7.25,11.15
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,y_t >= 250,climatology,20451,288.78,251.04,-76.23,-103.05
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,y_t >= 250,equal_neural_ens,20451,152.94,111.02,6.67,10.2
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,y_t >= 250,persistence,20451,163.87,123.63,0.0,0.0
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,y_t >= 250,ridge,20451,137.42,102.16,16.14,17.37
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,y_t >= 250,same_hour_yesterday,20451,163.87,123.63,0.0,0.0
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,y_t >= 250,stack,20451,151.95,110.63,7.27,10.51
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,onset (y_t - y_t-3 > 30),best_tree,38518,102.61,65.74,6.52,9.18
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,onset (y_t - y_t-3 > 30),climatology,38518,186.19,136.76,-69.63,-88.93
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,onset (y_t - y_t-3 > 30),equal_neural_ens,38518,102.96,66.2,6.2,8.55
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,onset (y_t - y_t-3 > 30),persistence,38518,109.76,72.39,0.0,0.0
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,onset (y_t - y_t-3 > 30),ridge,38518,94.97,63.11,13.48,12.81
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,onset (y_t - y_t-3 > 30),same_hour_yesterday,38518,109.76,72.39,0.0,0.0
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,onset (y_t - y_t-3 > 30),stack,38518,103.1,66.46,6.07,8.18
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,winter (Nov-Feb),best_tree,69736,107.56,70.64,0.97,2.43
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,winter (Nov-Feb),climatology,69736,197.2,153.78,-81.57,-112.41
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,winter (Nov-Feb),equal_neural_ens,69736,107.77,70.77,0.77,2.25
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,winter (Nov-Feb),persistence,69736,108.61,72.4,0.0,0.0
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,winter (Nov-Feb),ridge,69736,101.98,69.38,6.1,4.17
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,winter (Nov-Feb),same_hour_yesterday,69736,108.61,72.4,0.0,0.0
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,winter (Nov-Feb),stack,69736,107.48,70.93,1.03,2.02
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,other months (Mar-Oct),best_tree,131913,45.48,26.92,8.81,8.2
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,other months (Mar-Oct),climatology,131913,66.07,40.13,-32.48,-36.84
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,other months (Mar-Oct),equal_neural_ens,131913,46.6,27.28,6.56,6.99
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,other months (Mar-Oct),persistence,131913,49.87,29.32,0.0,0.0
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,other months (Mar-Oct),ridge,131913,44.44,26.85,10.9,8.45
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,other months (Mar-Oct),same_hour_yesterday,131913,49.87,29.32,0.0,0.0
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,other months (Mar-Oct),stack,131913,46.91,27.43,5.94,6.45
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,all,best_tree,201649,73.17,42.04,3.14,4.93
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,all,climatology,201649,127.69,79.43,-69.03,-79.63
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,all,equal_neural_ens,201649,73.74,42.32,2.39,4.3
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,all,persistence,201649,75.54,44.22,0.0,0.0
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,all,ridge,201649,69.92,41.55,7.44,6.03
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,all,same_hour_yesterday,201649,75.54,44.22,0.0,0.0
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,all,stack,201649,73.72,42.48,2.41,3.94
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,y_t >= 60,best_tree,122464,92.62,58.25,-0.27,2.78
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,y_t >= 60,climatology,122464,161.04,115.78,-74.35,-93.22
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,y_t >= 60,equal_neural_ens,122464,87.72,55.27,5.03,7.76
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,y_t >= 60,persistence,122464,92.37,59.92,0.0,0.0
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,y_t >= 60,ridge,122464,83.67,54.64,9.42,8.82
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,y_t >= 60,same_hour_yesterday,122464,92.37,59.92,0.0,0.0
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,y_t >= 60,stack,122464,89.51,56.33,3.09,6.0
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,y_t >= 120,best_tree,66502,116.27,78.97,-0.29,2.82
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,y_t >= 120,climatology,66502,207.68,168.11,-79.15,-106.87
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,y_t >= 120,equal_neural_ens,66502,109.64,74.19,5.42,8.7
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,y_t >= 120,persistence,66502,115.93,81.26,0.0,0.0
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,y_t >= 120,ridge,66502,103.89,72.6,10.38,10.66
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,y_t >= 120,same_hour_yesterday,66502,115.93,81.26,0.0,0.0
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,y_t >= 120,stack,66502,111.89,75.79,3.49,6.73
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,y_t >= 250,best_tree,20451,159.99,115.84,2.37,6.31
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,y_t >= 250,climatology,20451,288.78,251.04,-76.23,-103.05
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,y_t >= 250,equal_neural_ens,20451,149.33,107.41,8.87,13.12
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,y_t >= 250,persistence,20451,163.87,123.63,0.0,0.0
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,y_t >= 250,ridge,20451,135.74,100.6,17.17,18.63
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,y_t >= 250,same_hour_yesterday,20451,163.87,123.63,0.0,0.0
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,y_t >= 250,stack,20451,151.92,109.64,7.29,11.32
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,onset (y_t - y_t-3 > 30),best_tree,38518,106.02,67.39,3.41,6.91
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,onset (y_t - y_t-3 > 30),climatology,38518,186.19,136.76,-69.63,-88.93
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,onset (y_t - y_t-3 > 30),equal_neural_ens,38518,100.66,64.11,8.3,11.43
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,onset (y_t - y_t-3 > 30),persistence,38518,109.76,72.39,0.0,0.0
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,onset (y_t - y_t-3 > 30),ridge,38518,93.19,61.44,15.1,15.12
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,onset (y_t - y_t-3 > 30),same_hour_yesterday,38518,109.76,72.39,0.0,0.0
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,onset (y_t - y_t-3 > 30),stack,38518,102.67,65.58,6.46,9.4
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,winter (Nov-Feb),best_tree,69736,111.73,73.21,-2.88,-1.12
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,winter (Nov-Feb),climatology,69736,197.2,153.78,-81.57,-112.41
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,winter (Nov-Feb),equal_neural_ens,69736,105.0,68.25,3.32,5.73
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,winter (Nov-Feb),persistence,69736,108.61,72.4,0.0,0.0
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,winter (Nov-Feb),ridge,69736,99.65,67.46,8.25,6.82
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,winter (Nov-Feb),same_hour_yesterday,69736,108.61,72.4,0.0,0.0
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,winter (Nov-Feb),stack,69736,107.15,69.73,1.34,3.69
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,other months (Mar-Oct),best_tree,131913,45.52,26.78,8.73,8.69
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,other months (Mar-Oct),climatology,131913,66.07,40.13,-32.48,-36.84
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,other months (Mar-Oct),equal_neural_ens,131913,44.8,26.67,10.18,9.07
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,other months (Mar-Oct),persistence,131913,49.87,29.32,0.0,0.0
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,other months (Mar-Oct),ridge,131913,43.91,26.67,11.96,9.05
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,other months (Mar-Oct),same_hour_yesterday,131913,49.87,29.32,0.0,0.0
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,other months (Mar-Oct),stack,131913,45.61,26.87,8.54,8.38
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,all,best_tree,201649,75.32,42.83,0.29,3.14
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,all,climatology,201649,127.69,79.43,-69.03,-79.63
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,all,equal_neural_ens,201649,71.59,41.05,5.22,7.18
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,all,persistence,201649,75.54,44.22,0.0,0.0
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,all,ridge,201649,68.52,40.78,9.29,7.79
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,all,same_hour_yesterday,201649,75.54,44.22,0.0,0.0
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,all,stack,201649,73.02,41.69,3.34,5.72
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,y_t >= 60,best_tree,34862,22.32,11.8,4.99,4.69
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,y_t >= 60,climatology,34862,48.57,31.28,-106.77,-152.54
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,y_t >= 60,equal_neural_ens,34862,21.96,11.84,6.5,4.37
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,y_t >= 60,persistence,34862,23.49,12.38,0.0,0.0
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,y_t >= 60,ridge,34862,22.92,11.8,2.42,4.72
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,y_t >= 60,stack,34862,21.98,11.83,6.42,4.45
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,y_t >= 120,best_tree,5366,44.18,25.46,6.26,5.94
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,y_t >= 120,climatology,5366,105.24,88.48,-123.3,-226.96
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,y_t >= 120,equal_neural_ens,5366,43.13,25.48,8.48,5.84
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,y_t >= 120,persistence,5366,47.13,27.06,0.0,0.0
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,y_t >= 120,ridge,5366,46.02,25.43,2.35,6.03
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,y_t >= 120,stack,5366,43.16,25.42,8.42,6.07
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,y_t >= 250,best_tree,336,117.85,76.47,10.98,10.73
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,y_t >= 250,climatology,336,226.32,200.95,-70.96,-134.6
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,y_t >= 250,equal_neural_ens,336,112.09,75.53,15.33,11.83
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,y_t >= 250,persistence,336,132.38,85.66,0.0,0.0
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,y_t >= 250,ridge,336,130.81,81.52,1.19,4.84
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,y_t >= 250,stack,336,112.3,75.17,15.17,12.24
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,onset (y_t - y_t-3 > 30),best_tree,5227,41.27,23.44,7.48,5.82
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,onset (y_t - y_t-3 > 30),climatology,5227,79.74,55.68,-78.77,-123.75
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,onset (y_t - y_t-3 > 30),equal_neural_ens,5227,39.91,23.44,10.52,5.81
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,onset (y_t - y_t-3 > 30),persistence,5227,44.6,24.88,0.0,0.0
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,onset (y_t - y_t-3 > 30),ridge,5227,43.62,23.75,2.21,4.57
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,onset (y_t - y_t-3 > 30),stack,5227,39.96,23.4,10.41,5.97
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,winter (Nov-Feb),best_tree,43612,19.33,9.72,3.25,2.82
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,winter (Nov-Feb),climatology,43612,44.24,29.69,-121.39,-196.71
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,winter (Nov-Feb),equal_neural_ens,43612,18.98,9.71,5.0,2.96
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,winter (Nov-Feb),persistence,43612,19.98,10.01,0.0,0.0
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,winter (Nov-Feb),ridge,43612,19.71,9.77,1.37,2.33
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,winter (Nov-Feb),stack,43612,19.01,9.7,4.86,3.08
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,other months (Mar-Oct),best_tree,80813,8.91,4.6,7.89,3.39
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,other months (Mar-Oct),climatology,80813,45.08,41.03,-366.08,-761.68
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,other months (Mar-Oct),equal_neural_ens,80813,8.91,4.59,7.92,3.64
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,other months (Mar-Oct),persistence,80813,9.67,4.76,0.0,0.0
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,other months (Mar-Oct),ridge,80813,9.39,4.81,2.89,-1.06
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,other months (Mar-Oct),stack,80813,8.9,4.59,7.97,3.52
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,all,best_tree,124425,13.51,6.4,4.63,3.09
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,all,climatology,124425,44.79,37.05,-216.11,-461.45
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,all,equal_neural_ens,124425,13.34,6.38,5.88,3.28
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,all,persistence,124425,14.17,6.6,0.0,0.0
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,all,ridge,124425,13.91,6.55,1.83,0.74
+P1_LOCO_Mumbai_h1_direct_none,P1_LOCO,Mumbai,1,none,all,stack,124425,13.35,6.38,5.79,3.29
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,y_t >= 60,best_tree,34862,21.88,11.83,6.86,4.52
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,y_t >= 60,climatology,34862,48.57,31.28,-106.77,-152.54
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,y_t >= 60,equal_neural_ens,34862,21.79,11.86,7.23,4.25
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,y_t >= 60,persistence,34862,23.49,12.38,0.0,0.0
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,y_t >= 60,ridge,34862,22.78,11.84,3.0,4.42
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,y_t >= 60,stack,34862,21.86,11.85,6.94,4.31
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,y_t >= 120,best_tree,5366,42.85,25.09,9.07,7.28
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,y_t >= 120,climatology,5366,105.24,88.48,-123.3,-226.96
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,y_t >= 120,equal_neural_ens,5366,42.55,25.04,9.71,7.46
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,y_t >= 120,persistence,5366,47.13,27.06,0.0,0.0
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,y_t >= 120,ridge,5366,45.58,25.24,3.28,6.73
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,y_t >= 120,stack,5366,42.72,24.92,9.36,7.91
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,y_t >= 250,best_tree,336,112.15,73.51,15.28,14.18
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,y_t >= 250,climatology,336,226.32,200.95,-70.96,-134.6
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,y_t >= 250,equal_neural_ens,336,111.51,73.9,15.77,13.73
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,y_t >= 250,persistence,336,132.38,85.66,0.0,0.0
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,y_t >= 250,ridge,336,128.96,80.47,2.59,6.06
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,y_t >= 250,stack,336,112.73,74.18,14.84,13.4
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,onset (y_t - y_t-3 > 30),best_tree,5227,39.72,22.9,10.95,7.99
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,onset (y_t - y_t-3 > 30),climatology,5227,79.74,55.68,-78.77,-123.75
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,onset (y_t - y_t-3 > 30),equal_neural_ens,5227,39.23,23.01,12.05,7.51
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,onset (y_t - y_t-3 > 30),persistence,5227,44.6,24.88,0.0,0.0
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,onset (y_t - y_t-3 > 30),ridge,5227,43.19,23.67,3.16,4.89
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,onset (y_t - y_t-3 > 30),stack,5227,39.6,23.02,11.23,7.49
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,winter (Nov-Feb),best_tree,43612,18.87,9.74,5.59,2.65
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,winter (Nov-Feb),climatology,43612,44.24,29.69,-121.39,-196.71
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,winter (Nov-Feb),equal_neural_ens,43612,18.81,9.73,5.86,2.75
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,winter (Nov-Feb),persistence,43612,19.98,10.01,0.0,0.0
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,winter (Nov-Feb),ridge,43612,19.61,9.87,1.85,1.4
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,winter (Nov-Feb),stack,43612,18.87,9.75,5.59,2.59
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,other months (Mar-Oct),best_tree,80813,8.92,4.62,7.81,3.02
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,other months (Mar-Oct),climatology,80813,45.08,41.03,-366.08,-761.68
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,other months (Mar-Oct),equal_neural_ens,80813,8.93,4.65,7.65,2.43
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,other months (Mar-Oct),persistence,80813,9.67,4.76,0.0,0.0
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,other months (Mar-Oct),ridge,80813,9.5,5.08,1.78,-6.78
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,other months (Mar-Oct),stack,80813,8.95,4.66,7.42,2.1
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,all,best_tree,124425,13.28,6.41,6.25,2.83
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,all,climatology,124425,44.79,37.05,-216.11,-461.45
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,all,equal_neural_ens,124425,13.26,6.43,6.4,2.6
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,all,persistence,124425,14.17,6.6,0.0,0.0
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,all,ridge,124425,13.91,6.76,1.83,-2.44
+P1_LOCO_Mumbai_h1_direct_openmeteo,P1_LOCO,Mumbai,1,openmeteo,all,stack,124425,13.3,6.44,6.14,2.36
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,y_t >= 60,best_tree,54885,14.67,8.11,13.4,13.03
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,y_t >= 60,climatology,54885,71.63,50.66,-322.91,-443.15
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,y_t >= 60,equal_neural_ens,54885,14.31,7.84,15.5,15.94
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,y_t >= 60,persistence,54885,16.94,9.33,0.0,0.0
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,y_t >= 60,ridge,54885,14.89,8.13,12.07,12.82
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,y_t >= 60,stack,54885,14.29,7.85,15.66,15.82
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,y_t >= 120,best_tree,17829,21.53,11.64,14.73,18.29
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,y_t >= 120,climatology,17829,117.12,102.52,-363.75,-619.73
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,y_t >= 120,equal_neural_ens,17829,21.09,11.36,16.47,20.26
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,y_t >= 120,persistence,17829,25.25,14.24,0.0,0.0
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,y_t >= 120,ridge,17829,22.0,11.97,12.89,16.0
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,y_t >= 120,stack,17829,21.04,11.31,16.7,20.58
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,y_t >= 250,best_tree,1378,52.63,30.33,11.73,17.73
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,y_t >= 250,climatology,1378,253.15,240.57,-324.59,-552.55
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,y_t >= 250,equal_neural_ens,1378,51.25,29.85,14.05,19.04
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,y_t >= 250,persistence,1378,59.62,36.87,0.0,0.0
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,y_t >= 250,ridge,1378,52.52,31.11,11.92,15.61
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,y_t >= 250,stack,1378,51.1,29.63,14.3,19.63
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,onset (y_t - y_t-3 > 30),best_tree,7551,28.58,14.98,12.22,18.18
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,onset (y_t - y_t-3 > 30),climatology,7551,125.92,99.73,-286.82,-444.7
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,onset (y_t - y_t-3 > 30),equal_neural_ens,7551,27.89,14.59,14.33,20.31
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,onset (y_t - y_t-3 > 30),persistence,7551,32.55,18.31,0.0,0.0
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,onset (y_t - y_t-3 > 30),ridge,7551,29.33,15.94,9.91,12.93
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,onset (y_t - y_t-3 > 30),stack,7551,27.74,14.44,14.79,21.15
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,winter (Nov-Feb),best_tree,51582,13.75,7.8,14.48,12.86
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,winter (Nov-Feb),climatology,51582,72.19,51.34,-349.05,-473.61
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,winter (Nov-Feb),equal_neural_ens,51582,13.5,7.46,16.05,16.69
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,winter (Nov-Feb),persistence,51582,16.08,8.95,0.0,0.0
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,winter (Nov-Feb),ridge,51582,14.28,7.97,11.17,11.0
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,winter (Nov-Feb),stack,51582,13.47,7.48,16.21,16.45
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,other months (Mar-Oct),best_tree,103951,6.9,3.57,4.46,-2.25
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,other months (Mar-Oct),climatology,103951,40.17,35.31,-456.02,-910.85
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,other months (Mar-Oct),equal_neural_ens,103951,6.78,3.59,6.19,-2.82
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,other months (Mar-Oct),persistence,103951,7.22,3.49,0.0,0.0
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,other months (Mar-Oct),ridge,103951,6.87,3.65,4.89,-4.54
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,other months (Mar-Oct),stack,103951,6.78,3.62,6.12,-3.63
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,all,best_tree,155533,9.72,4.97,11.46,6.21
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,all,climatology,155533,52.98,40.63,-382.44,-666.11
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,all,equal_neural_ens,155533,9.55,4.87,13.08,8.1
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,all,persistence,155533,10.98,5.3,0.0,0.0
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,all,ridge,155533,9.96,5.08,9.31,4.16
+P1_LOCO_Kolkata_h1_direct_none,P1_LOCO,Kolkata,1,none,all,stack,155533,9.54,4.9,13.17,7.61
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,y_t >= 60,best_tree,54885,15.62,9.02,7.76,3.24
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,y_t >= 60,climatology,54885,71.63,50.66,-322.91,-443.15
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,y_t >= 60,equal_neural_ens,54885,14.62,8.46,13.67,9.25
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,y_t >= 60,persistence,54885,16.94,9.33,0.0,0.0
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,y_t >= 60,ridge,54885,14.74,8.12,12.97,12.97
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,y_t >= 60,stack,54885,14.54,8.36,14.18,10.33
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,y_t >= 120,best_tree,17829,23.01,13.26,8.89,6.91
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,y_t >= 120,climatology,17829,117.12,102.52,-363.75,-619.73
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,y_t >= 120,equal_neural_ens,17829,21.48,12.24,14.95,14.08
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,y_t >= 120,persistence,17829,25.25,14.24,0.0,0.0
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,y_t >= 120,ridge,17829,21.76,11.75,13.82,17.53
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,y_t >= 120,stack,17829,21.32,11.98,15.58,15.88
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,y_t >= 250,best_tree,1378,54.64,33.83,8.35,8.24
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,y_t >= 250,climatology,1378,253.15,240.57,-324.59,-552.55
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,y_t >= 250,equal_neural_ens,1378,51.09,30.67,14.31,16.79
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,y_t >= 250,persistence,1378,59.62,36.87,0.0,0.0
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,y_t >= 250,ridge,1378,52.43,31.13,12.06,15.56
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,y_t >= 250,stack,1378,51.16,30.18,14.19,18.15
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,onset (y_t - y_t-3 > 30),best_tree,7551,29.34,15.7,9.88,14.24
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,onset (y_t - y_t-3 > 30),climatology,7551,125.92,99.73,-286.82,-444.7
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,onset (y_t - y_t-3 > 30),equal_neural_ens,7551,27.51,14.36,15.49,21.58
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,onset (y_t - y_t-3 > 30),persistence,7551,32.55,18.31,0.0,0.0
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,onset (y_t - y_t-3 > 30),ridge,7551,28.97,15.48,10.99,15.43
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,onset (y_t - y_t-3 > 30),stack,7551,27.49,14.23,15.54,22.26
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,winter (Nov-Feb),best_tree,51582,14.92,8.9,7.22,0.51
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,winter (Nov-Feb),climatology,51582,72.19,51.34,-349.05,-473.61
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,winter (Nov-Feb),equal_neural_ens,51582,13.89,8.25,13.61,7.82
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,winter (Nov-Feb),persistence,51582,16.08,8.95,0.0,0.0
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,winter (Nov-Feb),ridge,51582,14.14,8.03,12.03,10.25
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,winter (Nov-Feb),stack,51582,13.79,8.2,14.22,8.39
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,other months (Mar-Oct),best_tree,103951,6.9,3.59,4.44,-2.75
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,other months (Mar-Oct),climatology,103951,40.17,35.31,-456.02,-910.85
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,other months (Mar-Oct),equal_neural_ens,103951,6.83,3.66,5.47,-4.78
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,other months (Mar-Oct),persistence,103951,7.22,3.49,0.0,0.0
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,other months (Mar-Oct),ridge,103951,7.07,3.9,2.21,-11.68
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,other months (Mar-Oct),stack,103951,6.84,3.65,5.32,-4.49
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,all,best_tree,155533,10.28,5.35,6.41,-0.93
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,all,climatology,155533,52.98,40.63,-382.44,-666.11
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,all,equal_neural_ens,155533,9.75,5.18,11.18,2.27
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,all,persistence,155533,10.98,5.3,0.0,0.0
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,all,ridge,155533,9.98,5.27,9.08,0.6
+P1_LOCO_Kolkata_h1_direct_openmeteo,P1_LOCO,Kolkata,1,openmeteo,all,stack,155533,9.71,5.16,11.55,2.72
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,y_t >= 60,best_tree,15680,44.95,20.88,7.38,9.82
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,y_t >= 60,climatology,15680,73.41,36.3,-51.23,-56.8
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,y_t >= 60,equal_neural_ens,15680,44.39,20.78,8.55,10.27
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,y_t >= 60,persistence,15680,48.54,23.15,0.0,0.0
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,y_t >= 60,ridge,15680,46.46,21.56,4.28,6.88
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,y_t >= 60,stack,15680,44.04,20.62,9.26,10.95
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,y_t >= 120,best_tree,2510,85.33,50.98,10.75,13.25
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,y_t >= 120,climatology,2510,161.55,109.24,-68.98,-85.91
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,y_t >= 120,equal_neural_ens,2510,83.49,49.8,12.67,15.25
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,y_t >= 120,persistence,2510,95.6,58.76,0.0,0.0
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,y_t >= 120,ridge,2510,89.61,53.01,6.26,9.8
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,y_t >= 120,stack,2510,82.46,49.29,13.75,16.12
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,y_t >= 250,best_tree,421,152.04,111.76,15.5,18.28
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,y_t >= 250,climatology,421,316.58,253.06,-75.95,-85.05
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,y_t >= 250,equal_neural_ens,421,148.47,106.92,17.48,21.82
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,y_t >= 250,persistence,421,179.92,136.75,0.0,0.0
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,y_t >= 250,ridge,421,167.36,123.9,6.98,9.4
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,y_t >= 250,stack,421,145.64,105.47,19.06,22.88
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,onset (y_t - y_t-3 > 30),best_tree,5796,57.19,31.19,9.19,10.25
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,onset (y_t - y_t-3 > 30),climatology,5796,101.58,53.55,-61.28,-54.08
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,onset (y_t - y_t-3 > 30),equal_neural_ens,5796,56.78,31.19,9.85,10.24
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,onset (y_t - y_t-3 > 30),persistence,5796,62.99,34.75,0.0,0.0
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,onset (y_t - y_t-3 > 30),ridge,5796,60.38,32.84,4.13,5.52
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,onset (y_t - y_t-3 > 30),stack,5796,56.14,30.96,10.86,10.91
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,winter (Nov-Feb),best_tree,39944,22.87,8.33,6.91,5.05
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,winter (Nov-Feb),climatology,39944,49.61,36.33,-101.97,-314.26
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,winter (Nov-Feb),equal_neural_ens,39944,22.77,8.32,7.32,5.16
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,winter (Nov-Feb),persistence,39944,24.56,8.77,0.0,0.0
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,winter (Nov-Feb),ridge,39944,23.69,8.82,3.55,-0.62
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,winter (Nov-Feb),stack,39944,22.57,8.28,8.13,5.59
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,other months (Mar-Oct),best_tree,78141,17.49,6.9,5.47,5.0
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,other months (Mar-Oct),climatology,78141,51.63,44.65,-178.98,-514.37
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,other months (Mar-Oct),equal_neural_ens,78141,17.23,6.86,6.9,5.69
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,other months (Mar-Oct),persistence,78141,18.51,7.27,0.0,0.0
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,other months (Mar-Oct),ridge,78141,18.03,7.17,2.59,1.38
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,other months (Mar-Oct),stack,78141,17.17,6.85,7.23,5.73
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,all,best_tree,118085,19.48,7.39,6.15,5.02
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,all,climatology,118085,50.95,41.84,-145.52,-438.04
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,all,equal_neural_ens,118085,19.28,7.35,7.1,5.49
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,all,persistence,118085,20.75,7.78,0.0,0.0
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,all,ridge,118085,20.12,7.73,3.05,0.61
+P1_LOCO_Chennai_h1_direct_none,P1_LOCO,Chennai,1,none,all,stack,118085,19.17,7.33,7.65,5.68
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,y_t >= 60,best_tree,15680,44.82,20.41,7.67,11.86
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,y_t >= 60,climatology,15680,73.41,36.3,-51.23,-56.8
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,y_t >= 60,equal_neural_ens,15680,45.63,20.87,6.0,9.84
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,y_t >= 60,persistence,15680,48.54,23.15,0.0,0.0
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,y_t >= 60,ridge,15680,46.12,21.35,4.99,7.79
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,y_t >= 60,stack,15680,45.3,20.8,6.67,10.18
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,y_t >= 120,best_tree,2510,85.08,48.83,11.0,16.9
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,y_t >= 120,climatology,2510,161.55,109.24,-68.98,-85.91
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,y_t >= 120,equal_neural_ens,2510,87.5,49.83,8.47,15.2
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,y_t >= 120,persistence,2510,95.6,58.76,0.0,0.0
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,y_t >= 120,ridge,2510,88.74,52.38,7.17,10.86
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,y_t >= 120,stack,2510,86.59,49.65,9.43,15.51
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,y_t >= 250,best_tree,421,153.73,107.06,14.56,21.72
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,y_t >= 250,climatology,421,316.58,253.06,-75.95,-85.05
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,y_t >= 250,equal_neural_ens,421,160.96,109.9,10.54,19.64
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,y_t >= 250,persistence,421,179.92,136.75,0.0,0.0
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,y_t >= 250,ridge,421,165.14,122.28,8.22,10.59
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,y_t >= 250,stack,421,158.32,109.13,12.01,20.2
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,onset (y_t - y_t-3 > 30),best_tree,5796,57.53,30.21,8.66,13.06
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,onset (y_t - y_t-3 > 30),climatology,5796,101.58,53.55,-61.28,-54.08
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,onset (y_t - y_t-3 > 30),equal_neural_ens,5796,59.17,30.79,6.06,11.4
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,onset (y_t - y_t-3 > 30),persistence,5796,62.99,34.75,0.0,0.0
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,onset (y_t - y_t-3 > 30),ridge,5796,59.71,32.37,5.2,6.85
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,onset (y_t - y_t-3 > 30),stack,5796,58.51,30.7,7.1,11.66
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,winter (Nov-Feb),best_tree,39944,22.88,8.23,6.87,6.1
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,winter (Nov-Feb),climatology,39944,49.61,36.33,-101.97,-314.26
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,winter (Nov-Feb),equal_neural_ens,39944,23.62,8.41,3.84,4.05
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,winter (Nov-Feb),persistence,39944,24.56,8.77,0.0,0.0
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,winter (Nov-Feb),ridge,39944,23.52,8.64,4.24,1.52
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,winter (Nov-Feb),stack,39944,23.48,8.37,4.43,4.54
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,other months (Mar-Oct),best_tree,78141,17.47,6.79,5.6,6.53
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,other months (Mar-Oct),climatology,78141,51.63,44.65,-178.98,-514.37
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,other months (Mar-Oct),equal_neural_ens,78141,17.39,6.87,6.04,5.41
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,other months (Mar-Oct),persistence,78141,18.51,7.27,0.0,0.0
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,other months (Mar-Oct),ridge,78141,17.96,7.19,2.96,1.1
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,other months (Mar-Oct),stack,78141,17.29,6.84,6.56,5.94
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,all,best_tree,118085,19.47,7.28,6.2,6.37
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,all,climatology,118085,50.95,41.84,-145.52,-438.04
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,all,equal_neural_ens,118085,19.72,7.4,4.99,4.9
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,all,persistence,118085,20.75,7.78,0.0,0.0
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,all,ridge,118085,20.01,7.68,3.56,1.26
+P1_LOCO_Chennai_h1_direct_openmeteo,P1_LOCO,Chennai,1,openmeteo,all,stack,118085,19.6,7.36,5.55,5.41
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,y_t >= 60,best_tree,12326,33.08,14.11,12.76,15.97
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,y_t >= 60,climatology,12326,52.09,24.27,-37.37,-44.55
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,y_t >= 60,equal_neural_ens,12326,32.74,14.1,13.64,16.0
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,y_t >= 60,persistence,12326,37.92,16.79,0.0,0.0
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,y_t >= 60,ridge,12326,34.51,14.79,8.99,11.92
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,y_t >= 60,stack,12326,32.64,14.02,13.91,16.48
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,y_t >= 120,best_tree,1088,96.86,54.57,14.3,22.28
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,y_t >= 120,climatology,1088,157.9,100.78,-39.71,-43.54
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,y_t >= 120,equal_neural_ens,1088,95.84,53.39,15.2,23.96
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,y_t >= 120,persistence,1088,113.02,70.21,0.0,0.0
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,y_t >= 120,ridge,1088,102.12,58.95,9.64,16.04
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,y_t >= 120,stack,1088,95.44,52.79,15.55,24.82
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,y_t >= 250,best_tree,188,181.63,129.91,17.66,25.49
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,y_t >= 250,climatology,188,301.96,230.19,-36.89,-32.02
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,y_t >= 250,equal_neural_ens,188,178.11,122.11,19.26,29.97
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,y_t >= 250,persistence,188,220.59,174.36,0.0,0.0
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,y_t >= 250,ridge,188,198.81,149.57,9.88,14.22
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,y_t >= 250,stack,188,176.43,119.9,20.02,31.24
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,onset (y_t - y_t-3 > 30),best_tree,3951,53.75,24.55,12.68,17.09
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,onset (y_t - y_t-3 > 30),climatology,3951,85.43,42.51,-38.8,-43.54
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,onset (y_t - y_t-3 > 30),equal_neural_ens,3951,53.23,24.54,13.51,17.15
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,onset (y_t - y_t-3 > 30),persistence,3951,61.55,29.62,0.0,0.0
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,onset (y_t - y_t-3 > 30),ridge,3951,56.52,26.56,8.17,10.32
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,onset (y_t - y_t-3 > 30),stack,3951,53.08,24.39,13.75,17.64
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,winter (Nov-Feb),best_tree,57935,15.1,5.65,8.87,8.34
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,winter (Nov-Feb),climatology,57935,42.47,35.72,-156.37,-479.23
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,winter (Nov-Feb),equal_neural_ens,57935,14.88,5.63,10.17,8.77
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,winter (Nov-Feb),persistence,57935,16.57,6.17,0.0,0.0
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,winter (Nov-Feb),ridge,57935,15.71,6.05,5.15,1.85
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,winter (Nov-Feb),stack,57935,14.87,5.63,10.23,8.74
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,other months (Mar-Oct),best_tree,110803,10.79,4.14,8.55,6.29
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,other months (Mar-Oct),climatology,110803,48.89,44.63,-314.47,-910.22
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,other months (Mar-Oct),equal_neural_ens,110803,10.81,4.13,8.34,6.44
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,other months (Mar-Oct),persistence,110803,11.8,4.42,0.0,0.0
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,other months (Mar-Oct),ridge,110803,11.17,4.43,5.33,-0.34
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,other months (Mar-Oct),stack,110803,10.78,4.12,8.63,6.78
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,all,best_tree,168738,12.44,4.66,8.71,7.16
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,all,climatology,168738,46.79,41.57,-243.42,-728.4
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,all,equal_neural_ens,168738,12.36,4.65,9.27,7.42
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,all,persistence,168738,13.62,5.02,0.0,0.0
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,all,ridge,168738,12.91,4.99,5.24,0.58
+P1_LOCO_Bengaluru_h1_direct_none,P1_LOCO,Bengaluru,1,none,all,stack,168738,12.34,4.64,9.44,7.61
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,y_t >= 60,best_tree,12326,33.33,14.35,12.09,14.54
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,y_t >= 60,climatology,12326,52.09,24.27,-37.37,-44.55
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,y_t >= 60,equal_neural_ens,12326,34.16,17.36,9.92,-3.42
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,y_t >= 60,persistence,12326,37.92,16.79,0.0,0.0
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,y_t >= 60,ridge,12326,34.58,15.48,8.8,7.8
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,y_t >= 60,stack,12326,33.36,16.39,12.02,2.39
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,y_t >= 120,best_tree,1088,97.81,56.28,13.46,19.84
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,y_t >= 120,climatology,1088,157.9,100.78,-39.71,-43.54
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,y_t >= 120,equal_neural_ens,1088,96.58,55.93,14.55,20.34
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,y_t >= 120,persistence,1088,113.02,70.21,0.0,0.0
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,y_t >= 120,ridge,1088,101.54,59.33,10.15,15.5
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,y_t >= 120,stack,1088,95.05,55.93,15.89,20.34
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,y_t >= 250,best_tree,188,182.19,134.75,17.41,22.72
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,y_t >= 250,climatology,188,301.96,230.19,-36.89,-32.02
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,y_t >= 250,equal_neural_ens,188,177.2,127.48,19.67,26.89
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,y_t >= 250,persistence,188,220.59,174.36,0.0,0.0
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,y_t >= 250,ridge,188,196.38,147.97,10.98,15.13
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,y_t >= 250,stack,188,173.8,126.08,21.21,27.69
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,onset (y_t - y_t-3 > 30),best_tree,3951,53.91,24.96,12.41,15.72
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,onset (y_t - y_t-3 > 30),climatology,3951,85.43,42.51,-38.8,-43.54
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,onset (y_t - y_t-3 > 30),equal_neural_ens,3951,54.14,27.49,12.03,7.17
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,onset (y_t - y_t-3 > 30),persistence,3951,61.55,29.62,0.0,0.0
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,onset (y_t - y_t-3 > 30),ridge,3951,56.36,27.33,8.42,7.71
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,onset (y_t - y_t-3 > 30),stack,3951,53.15,26.62,13.64,10.12
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,winter (Nov-Feb),best_tree,57935,15.05,5.74,9.19,6.99
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,winter (Nov-Feb),climatology,57935,42.47,35.72,-156.37,-479.23
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,winter (Nov-Feb),equal_neural_ens,57935,18.41,12.25,-11.15,-98.73
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,winter (Nov-Feb),persistence,57935,16.57,6.17,0.0,0.0
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,winter (Nov-Feb),ridge,57935,15.87,6.66,4.22,-7.96
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,winter (Nov-Feb),stack,57935,16.57,9.51,0.01,-54.26
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,other months (Mar-Oct),best_tree,110803,10.96,4.28,7.06,3.03
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,other months (Mar-Oct),climatology,110803,48.89,44.63,-314.47,-910.22
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,other months (Mar-Oct),equal_neural_ens,110803,15.89,12.24,-34.72,-177.15
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,other months (Mar-Oct),persistence,110803,11.8,4.42,0.0,0.0
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,other months (Mar-Oct),ridge,110803,11.69,5.7,0.92,-29.07
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,other months (Mar-Oct),stack,110803,13.12,8.54,-11.18,-93.29
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,all,best_tree,168738,12.52,4.78,8.14,4.7
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,all,climatology,168738,46.79,41.57,-243.42,-728.4
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,all,equal_neural_ens,168738,16.8,12.25,-23.31,-144.06
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,all,persistence,168738,13.62,5.02,0.0,0.0
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,all,ridge,168738,13.27,6.03,2.58,-20.17
+P1_LOCO_Bengaluru_h1_direct_openmeteo,P1_LOCO,Bengaluru,1,openmeteo,all,stack,168738,14.39,8.87,-5.65,-76.83

@@ -1,0 +1,28 @@
+# Python / IDE / OS
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Large binary datasets, raw CPCB archives, and caches (reproducible via fetch/)
+*.parquet
+*.pkl
+*.pt
+*.pth
+*.log
+spm_pipeline/raw_cpcb/
+spm_pipeline/data/
+spm_pipeline/data_2024/
+spm_pipeline/synth_data/
+
+# Intermediate experimental directories and per-run prediction/model dumps
+spm_pipeline/results/
+spm_pipeline/results_sweep/
+spm_pipeline/results_qc2/
+spm_pipeline/results_qc3_stepA/
+spm_pipeline/synth_results/
+spm_pipeline/results_final/runs/

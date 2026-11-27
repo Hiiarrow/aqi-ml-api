@@ -1,0 +1,13 @@
+protocol,heldout,horizon,N_test,A,B,n_blocks,B_resamples,dRMSE_mean,dRMSE_lo,dRMSE_hi,dMAE_mean,dMAE_lo,dMAE_hi
+P1_LOCO,Bengaluru,1,168738,openmeteo_ens,none_ens,2433,1000,4.446,4.143,4.768,7.6,7.488,7.713
+P1_LOCO,Chennai,1,118085,openmeteo_ens,none_ens,2407,1000,0.44,0.127,0.809,0.046,0.015,0.078
+P1_LOCO,Delhi,1,208048,openmeteo_ens,none_ens,2524,1000,0.566,0.331,0.816,0.027,-0.038,0.091
+P1_LOCO,Delhi,24,201649,openmeteo_ens,none_ens,2516,1000,-2.139,-2.717,-1.562,-1.271,-1.582,-0.969
+P1_LOCO,Kolkata,1,155533,openmeteo_ens,none_ens,2030,1000,0.208,0.133,0.282,0.308,0.273,0.342
+P1_LOCO,Mumbai,1,124425,openmeteo_ens,none_ens,1671,1000,-0.075,-0.128,-0.017,0.044,0.028,0.061
+P2_2023,ALL20,1,151279,openmeteo_ens,none_ens,365,1000,-0.142,-0.308,0.115,-0.083,-0.107,-0.059
+P2_2023,ALL20,6,149831,openmeteo_ens,none_ens,365,1000,-1.407,-1.865,-0.962,-0.594,-0.746,-0.445
+P2_2023,ALL20,12,148395,openmeteo_ens,none_ens,365,1000,-1.642,-2.272,-0.945,-0.834,-1.067,-0.621
+P2_2023,ALL20,24,146751,openmeteo_ens,none_ens,365,1000,-1.329,-2.017,-0.624,-0.73,-0.972,-0.506
+P2_2024,ALL19,1,146669,openmeteo_ens,none_ens,366,1000,-0.03,-0.124,0.071,0.053,0.023,0.082
+P2_2024,ALL19,24,142882,openmeteo_ens,none_ens,366,1000,-0.732,-1.588,0.123,-0.127,-0.394,0.134

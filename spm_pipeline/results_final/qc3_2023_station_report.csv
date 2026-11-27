@@ -1,0 +1,21 @@
+city,station,raw_slots,nonnull_raw,duplicate_timestamps,fault_985_999_removed,fault_halo_3h_removed,out_of_range_removed,stuck_gt6_removed,stuck_ge3_gt200_removed,spike_1h_removed,spike_v3b_removed,total_removed,interpolated_hours,valid_hours_out,span_years,status
+Bengaluru,BTM Layout,61344,47326,0,17,33,0,787,0,19,10,866,1003,47463,7.0,retained
+Bengaluru,Hebbal,48960,41866,0,0,0,0,54,0,1,4,59,762,42569,5.52,retained
+Bengaluru,Hombegowda Nagar,48240,44601,0,0,0,0,82,0,0,4,86,332,44847,5.49,retained
+Bengaluru,Peenya,61344,48722,0,43,72,0,469,0,9,34,627,764,48859,6.99,retained
+Chennai,Kodungaiyur,27744,20994,0,0,0,0,8,0,0,2,10,483,21467,3.15,retained
+Chennai,Manali CPCB,61344,54613,0,13,26,0,76,0,19,6,140,1848,56321,7.0,retained
+Chennai,Perungudi,27024,24125,0,0,0,0,0,0,0,0,0,631,24756,3.04,retained
+Chennai,Royapuram,27744,25393,0,0,0,0,12,0,0,0,12,530,25911,3.14,retained
+Delhi,Anand Vihar,61344,52372,0,1,6,0,101,84,6,2,200,805,52977,7.0,retained
+Delhi,Mandir Marg,61344,58218,0,0,0,0,114,43,4,0,161,759,58816,7.0,retained
+Delhi,Punjabi Bagh,61344,54292,0,45,117,1,170,120,13,18,484,672,54480,7.0,retained
+Delhi,R.K. Puram,61344,55964,0,0,0,0,14,3,4,0,21,1553,57496,6.99,retained
+Kolkata,Ballygunge,38736,35836,0,0,0,0,192,0,0,0,192,741,36385,4.34,retained
+Kolkata,Jadavpur,40200,37598,0,0,0,0,0,0,1,0,1,585,38182,4.58,retained
+Kolkata,Rabindra Bharati,45288,40667,0,1,6,0,22,6,5,0,40,1229,41856,5.15,retained
+Kolkata,Victoria,50424,46983,0,1,6,0,42,0,1,0,50,883,47816,5.72,retained
+Mumbai,BKC,27744,22352,0,0,0,0,169,0,11,4,184,643,22811,3.13,retained
+Mumbai,Borivali East,40200,34753,0,0,0,0,155,0,1,0,156,1531,36128,4.55,retained
+Mumbai,Powai,40200,36707,0,0,0,0,0,0,5,2,7,355,37055,4.57,retained
+Mumbai,Sion MPCB,40200,37628,0,0,0,0,126,0,0,0,126,319,37821,4.53,retained
