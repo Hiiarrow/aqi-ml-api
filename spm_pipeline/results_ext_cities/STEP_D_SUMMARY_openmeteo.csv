@@ -1,0 +1,13 @@
+weather_mode,city_group,test_year,horizon,n_cities,best_tree_choice,ens_skill_RMSE_med,ens_skill_RMSE_min,ens_skill_RMSE_max,ridge_skill_RMSE_med,ridge_skill_RMSE_min,ridge_skill_RMSE_max,best_tree_skill_RMSE_med,best_tree_skill_RMSE_min,best_tree_skill_RMSE_max,ens_vs_pers_dRMSE_below,ens_vs_pers_dRMSE_incl,ens_vs_pers_dRMSE_above,ens_vs_pers_dMAE_below,ens_vs_pers_dMAE_incl,ens_vs_pers_dMAE_above,ridge_vs_pers_dRMSE_below,ridge_vs_pers_dRMSE_incl,ridge_vs_pers_dRMSE_above,ridge_vs_pers_dMAE_below,ridge_vs_pers_dMAE_incl,ridge_vs_pers_dMAE_above,best_tree_vs_pers_dRMSE_below,best_tree_vs_pers_dRMSE_incl,best_tree_vs_pers_dRMSE_above,best_tree_vs_pers_dMAE_below,best_tree_vs_pers_dMAE_incl,best_tree_vs_pers_dMAE_above,ridge_vs_ens_dRMSE_below,ridge_vs_ens_dRMSE_incl,ridge_vs_ens_dRMSE_above,ridge_vs_ens_dMAE_below,ridge_vs_ens_dMAE_incl,ridge_vs_ens_dMAE_above
+openmeteo,PRIMARY,2023,1,10,xgb_residual,11.16,0.95,20.44,8.45,-4.18,14.24,10.18,-2.28,17.36,8,2,0,7,2,1,7,2,1,6,1,3,8,2,0,6,1,3,0,2,8,0,1,9
+openmeteo,PRIMARY,2023,6,10,gbm_direct,30.41,12.83,36.23,26.49,0.92,32.97,28.56,11.87,35.93,9,1,0,9,1,0,9,1,0,7,1,2,9,1,0,10,0,0,1,1,8,1,1,8
+openmeteo,PRIMARY,2023,12,10,gbm_direct,30.54,9.01,37.95,28.64,-6.47,35.34,28.39,10.81,35.35,10,0,0,8,2,0,8,2,0,7,1,2,9,1,0,9,1,0,0,2,8,0,2,8
+openmeteo,PRIMARY,2023,24,10,gbm_direct,9.29,-25.64,16.88,6.71,-44.25,15.61,11.77,-1.52,16.21,5,4,1,5,0,5,5,3,2,4,1,5,8,2,0,7,1,2,0,4,6,0,3,7
+openmeteo,PRIMARY,2024,1,10,xgb_residual,11.46,2.44,15.93,6.88,-4.8,10.17,9.52,4.08,12.89,9,1,0,8,0,2,8,0,2,6,1,3,10,0,0,9,0,1,0,1,9,0,0,10
+openmeteo,PRIMARY,2024,24,10,xgb_direct,5.75,-42.53,17.43,2.75,-71.24,14.49,6.54,-8.9,14.46,5,2,3,4,2,4,4,3,3,2,2,6,6,3,1,2,5,3,0,3,7,0,1,9
+openmeteo,SECONDARY,2023,1,6,xgb_residual,9.38,5.15,15.07,5.85,3.89,10.16,8.16,3.61,13.88,6,0,0,6,0,0,6,0,0,4,2,0,6,0,0,5,1,0,0,0,6,0,0,6
+openmeteo,SECONDARY,2023,6,6,gbm_direct,25.8,17.62,37.05,24.02,18.9,27.97,24.69,18.18,34.71,6,0,0,6,0,0,6,0,0,6,0,0,6,0,0,6,0,0,0,2,4,0,2,4
+openmeteo,SECONDARY,2023,12,6,gbm_direct,26.21,8.81,41.89,23.57,10.45,34.24,23.23,10.53,38.67,5,1,0,5,1,0,6,0,0,5,1,0,6,0,0,6,0,0,0,2,4,0,2,4
+openmeteo,SECONDARY,2023,24,6,gbm_direct,5.32,-4.66,16.67,1.21,-4.29,14.55,10.45,5.38,15.18,2,4,0,2,0,4,2,4,0,1,1,4,5,1,0,3,3,0,0,4,2,0,2,4
+openmeteo,SECONDARY,2024,1,6,xgb_residual,8.91,1.01,12.23,4.04,3.1,8.7,8.03,2.44,13.17,5,1,0,6,0,0,6,0,0,2,3,1,5,1,0,6,0,0,0,2,4,0,0,6
+openmeteo,SECONDARY,2024,24,6,xgb_direct,6.44,-12.58,14.42,1.67,-16.65,13.48,7.23,-2.01,13.54,3,3,0,2,0,4,3,2,1,2,0,4,3,3,0,2,2,2,0,2,4,0,1,5

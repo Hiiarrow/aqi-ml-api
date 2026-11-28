@@ -1,0 +1,52 @@
+{
+  "phase": 3,
+  "run_id": "P1_LOCO_Mumbai_h24_direct_openmeteo",
+  "protocol": "P1_LOCO",
+  "heldout": "Mumbai",
+  "horizon": 24,
+  "target_mode": "direct",
+  "weather_mode": "openmeteo",
+  "n_train_stations": 16,
+  "n_test_stations": 4,
+  "train_stations": [
+    "Bengaluru/BTM Layout",
+    "Bengaluru/Hebbal",
+    "Bengaluru/Hombegowda Nagar",
+    "Bengaluru/Peenya",
+    "Chennai/Kodungaiyur",
+    "Chennai/Manali CPCB",
+    "Chennai/Perungudi",
+    "Chennai/Royapuram",
+    "Delhi/Anand Vihar",
+    "Delhi/Mandir Marg",
+    "Delhi/Punjabi Bagh",
+    "Delhi/R.K. Puram",
+    "Kolkata/Ballygunge",
+    "Kolkata/Jadavpur",
+    "Kolkata/Rabindra Bharati",
+    "Kolkata/Victoria"
+  ],
+  "test_stations": [
+    "Mumbai/BKC",
+    "Mumbai/Borivali East",
+    "Mumbai/Powai",
+    "Mumbai/Sion MPCB"
+  ],
+  "train_n": 566861,
+  "val_n": 63059,
+  "test_n": 120357,
+  "n_date_blocks": 1670,
+  "ridge_alpha": 100.0,
+  "best_tree_choice": "xgb_direct",
+  "elapsed_s": 293.11878395080566,
+  "stack_weights": {
+    "ridge": 0.0,
+    "gbm_direct": 0.12488037170278701,
+    "xgb_direct": 0.1926743646589715,
+    "gru_avg": 0.0,
+    "lstm_avg": 0.0,
+    "bilstm_avg": 0.034790848326765926,
+    "tcn_avg": 0.08217245264890849,
+    "cnn_lstm_avg": 0.5797388559183997
+  }
+}

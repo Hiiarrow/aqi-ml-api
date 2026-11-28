@@ -1,0 +1,5 @@
+source,city,horizon,N_test,n_blocks,B_resamples,dRMSE_mean,dRMSE_lo,dRMSE_hi,dMAE_mean,dMAE_lo,dMAE_hi
+extension_post_main,Mumbai,24,120357,1670,1000,0.052,-0.196,0.328,0.739,0.577,0.883
+extension_post_main,Kolkata,24,152497,2027,1000,-2.557,-2.976,-2.142,-1.2,-1.449,-0.955
+extension_post_main,Chennai,24,114297,2386,1000,0.084,-0.174,0.303,0.038,-0.085,0.148
+extension_post_main,Bengaluru,24,162222,2409,1000,17.075,16.279,17.913,22.0,21.623,22.372

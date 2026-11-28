@@ -1,0 +1,17 @@
+city,state,eligible_all_stations,lat,lon,elev_m,geocoded_admin1
+Agra,Uttar Pradesh,True,27.18333,78.01667,166.0,Uttar Pradesh
+Patna,Bihar,True,25.59408,85.13563,53.0,Bihar
+Ghaziabad,Uttar Pradesh,True,28.66535,77.43915,214.0,Uttar Pradesh
+Noida,Uttar Pradesh,True,28.58,77.33,206.0,Uttar Pradesh
+Varanasi,Uttar Pradesh,True,25.31668,83.01041,86.0,Uttar Pradesh
+Chandigarh,Chandigarh,True,30.73629,76.7884,351.0,Chandigarh
+Gaya,Bihar,True,24.79686,85.00385,117.0,Bihar
+Meerut,Uttar Pradesh,True,28.98002,77.70636,228.0,Uttar Pradesh
+Muzaffarpur,Bihar,True,26.12259,85.39055,60.0,Bihar
+Prayagraj,Uttar Pradesh,True,25.44478,81.84322,99.0,Uttar Pradesh
+Lucknow,Uttar Pradesh,False,26.83928,80.92313,126.0,Uttar Pradesh
+Moradabad,Uttar Pradesh,False,28.83893,78.77684,205.0,Uttar Pradesh
+Jaipur,Rajasthan,False,26.91962,75.78781,435.0,Rajasthan
+Howrah,West Bengal,False,22.57688,88.31857,8.0,West Bengal
+Gurugram,Haryana,False,28.4601,77.02635,228.0,Haryana
+Kanpur,Uttar Pradesh,False,26.46523,80.34975,137.0,Uttar Pradesh

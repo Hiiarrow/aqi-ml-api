@@ -1,0 +1,17 @@
+city,state,eligible_all_stations,elev_m,sp_2023_min,sp_2023_max,outside_2017_2022,sp_2024_min,sp_2024_max,outside_2017_2023
+Agra,Uttar Pradesh,True,166.0,974.5,1006.3,False,971.1,1003.5,False
+Patna,Bihar,True,53.0,986.0,1019.0,False,984.0,1017.6,False
+Ghaziabad,Uttar Pradesh,True,214.0,970.7,1001.4,False,966.9,998.7,False
+Noida,Uttar Pradesh,True,206.0,971.8,1002.7,False,967.8,999.8,False
+Varanasi,Uttar Pradesh,True,86.0,983.1,1015.7,False,980.0,1014.0,False
+Chandigarh,Chandigarh,True,351.0,956.5,984.8,False,952.9,982.7,False
+Gaya,Bihar,True,117.0,977.7,1011.1,False,976.6,1009.6,False
+Meerut,Uttar Pradesh,True,228.0,969.3,999.9,False,965.8,997.4,False
+Muzaffarpur,Bihar,True,60.0,985.7,1017.7,False,983.5,1016.6,False
+Prayagraj,Uttar Pradesh,True,99.0,982.3,1014.6,False,978.2,1012.6,False
+Lucknow,Uttar Pradesh,False,126.0,978.8,1011.3,False,975.6,1009.0,False
+Moradabad,Uttar Pradesh,False,205.0,970.8,1002.5,False,968.0,1000.0,False
+Jaipur,Rajasthan,False,435.0,947.7,974.7,False,944.8,972.6,False
+Howrah,West Bengal,False,8.0,988.7,1021.4,True,978.4,1021.5,True
+Gurugram,Haryana,False,228.0,969.6,1000.2,False,965.6,997.2,False
+Kanpur,Uttar Pradesh,False,137.0,978.3,1010.2,False,974.4,1007.8,False

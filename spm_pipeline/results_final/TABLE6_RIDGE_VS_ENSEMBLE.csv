@@ -1,0 +1,15 @@
+run_id,protocol,heldout,horizon,weather_mode,N_test,n_date_blocks,ridge_RMSE,ridge_MAE,ridge_skill_RMSE,ridge_skill_MAE,ridge_R2,ens_RMSE,ens_MAE,ens_skill_RMSE,ens_skill_MAE,ens_R2,A,B,dRMSE_mean,dRMSE_lo,dRMSE_hi,dMAE_mean,dMAE_lo,dMAE_hi
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,201649,2516,69.918,41.554,7.44,6.03,0.5736,73.736,42.317,2.39,4.3,0.5258,ridge,equal_neural_ens,-3.788,-5.445,-2.05,-0.758,-1.431,-0.047
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,201649,2516,69.918,41.554,7.44,6.03,0.5736,73.736,42.317,2.39,4.3,0.5258,ridge,persistence,-5.57,-6.991,-4.173,-2.651,-3.152,-2.086
+P1_LOCO_Delhi_h24_direct_none,P1_LOCO,Delhi,24,none,201649,2516,69.918,41.554,7.44,6.03,0.5736,73.736,42.317,2.39,4.3,0.5258,ridge,best_tree,-3.226,-4.674,-1.61,-0.485,-1.04,0.12
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,201649,2516,68.523,40.777,9.29,7.79,0.5905,71.595,41.047,5.22,7.18,0.5529,ridge,equal_neural_ens,-3.049,-4.513,-1.665,-0.269,-0.844,0.292
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,201649,2516,68.523,40.777,9.29,7.79,0.5905,71.595,41.047,5.22,7.18,0.5529,ridge,persistence,-6.969,-8.501,-5.517,-3.432,-3.978,-2.857
+P1_LOCO_Delhi_h24_direct_openmeteo,P1_LOCO,Delhi,24,openmeteo,201649,2516,68.523,40.777,9.29,7.79,0.5905,71.595,41.047,5.22,7.18,0.5529,ridge,best_tree,-6.768,-8.365,-5.195,-2.057,-2.756,-1.415
+P2_2023_ALL20_h6_direct_none,P2_2023,ALL20,6,none,149831,365,31.412,16.166,26.18,21.05,0.768,29.576,14.699,30.49,28.21,0.7944,ridge,equal_neural_ens,1.845,1.31,2.398,1.471,1.293,1.656
+P2_2023_ALL20_h6_direct_openmeteo,P2_2023,ALL20,6,openmeteo,149831,365,30.886,16.611,27.42,18.88,0.7757,28.165,14.104,33.81,31.12,0.8135,ridge,equal_neural_ens,2.723,2.181,3.237,2.509,2.3,2.706
+P2_2023_ALL20_h12_direct_none,P2_2023,ALL20,12,none,148395,365,33.842,17.76,30.4,26.52,0.7312,32.468,16.483,33.22,31.81,0.7526,ridge,equal_neural_ens,1.379,0.805,1.99,1.279,1.09,1.466
+P2_2023_ALL20_h12_direct_openmeteo,P2_2023,ALL20,12,openmeteo,148395,365,33.256,18.11,31.6,25.08,0.7404,30.835,15.648,36.58,35.26,0.7768,ridge,equal_neural_ens,2.43,1.707,3.094,2.463,2.228,2.688
+P2_2023_ALL20_h24_direct_none,P2_2023,ALL20,24,none,146751,365,34.994,18.289,9.9,1.75,0.7122,33.747,17.396,13.1,6.55,0.7324,ridge,equal_neural_ens,1.25,0.797,1.709,0.895,0.736,1.047
+P2_2023_ALL20_h24_direct_openmeteo,P2_2023,ALL20,24,openmeteo,146751,365,34.416,18.814,11.38,-1.07,0.7216,32.422,16.666,16.52,10.47,0.753,ridge,equal_neural_ens,1.995,1.37,2.587,2.147,1.921,2.37
+P2_2024_ALL19_h24_direct_none,P2_2024,ALL19,24,none,142882,366,34.63,17.098,9.27,1.01,0.7287,33.279,16.054,12.8,7.05,0.7494,ridge,equal_neural_ens,1.356,0.483,2.326,1.044,0.832,1.28
+P2_2024_ALL19_h24_direct_openmeteo,P2_2024,ALL19,24,openmeteo,142882,366,34.598,18.016,9.35,-4.31,0.7292,32.551,15.932,14.71,7.76,0.7602,ridge,equal_neural_ens,2.046,1.232,2.826,2.084,1.816,2.366

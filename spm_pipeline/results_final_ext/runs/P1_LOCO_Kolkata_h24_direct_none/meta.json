@@ -1,0 +1,52 @@
+{
+  "phase": 3,
+  "run_id": "P1_LOCO_Kolkata_h24_direct_none",
+  "protocol": "P1_LOCO",
+  "heldout": "Kolkata",
+  "horizon": 24,
+  "target_mode": "direct",
+  "weather_mode": "none",
+  "n_train_stations": 16,
+  "n_test_stations": 4,
+  "train_stations": [
+    "Bengaluru/BTM Layout",
+    "Bengaluru/Hebbal",
+    "Bengaluru/Hombegowda Nagar",
+    "Bengaluru/Peenya",
+    "Chennai/Kodungaiyur",
+    "Chennai/Manali CPCB",
+    "Chennai/Perungudi",
+    "Chennai/Royapuram",
+    "Delhi/Anand Vihar",
+    "Delhi/Mandir Marg",
+    "Delhi/Punjabi Bagh",
+    "Delhi/R.K. Puram",
+    "Mumbai/BKC",
+    "Mumbai/Borivali East",
+    "Mumbai/Powai",
+    "Mumbai/Sion MPCB"
+  ],
+  "test_stations": [
+    "Kolkata/Ballygunge",
+    "Kolkata/Jadavpur",
+    "Kolkata/Rabindra Bharati",
+    "Kolkata/Victoria"
+  ],
+  "train_n": 537937,
+  "val_n": 59845,
+  "test_n": 152497,
+  "n_date_blocks": 2027,
+  "ridge_alpha": 0.1,
+  "best_tree_choice": "xgb_direct",
+  "elapsed_s": 340.5261514186859,
+  "stack_weights": {
+    "ridge": 0.0,
+    "gbm_direct": 0.0,
+    "xgb_direct": 0.08581050752935622,
+    "gru_avg": 0.5875039812519516,
+    "lstm_avg": 0.0,
+    "bilstm_avg": 0.0,
+    "tcn_avg": 0.0,
+    "cnn_lstm_avg": 0.33104089833022915
+  }
+}
